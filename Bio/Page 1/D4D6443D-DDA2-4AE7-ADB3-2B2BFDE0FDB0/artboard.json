@@ -51,6 +51,26 @@
     {
       "class": "text",
       "id": "B0BDF0F0-E864-4841-B3DF-946E96B7B7C8"
+    },
+    {
+      "class": "bitmap",
+      "id": "306F0916-54EC-4506-B106-588DECE284C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A661C86E-9CDF-44D7-B9E6-8B9DB4B2879F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19F77934-6915-47CF-8296-DE88BB186130"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3B3D22F-9853-45C8-ABFD-2CB13BC099BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B02BB49-9D30-4040-A2BD-694511E43008"
     }
   ],
   "name": "Mood",
