@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 596,
+        "length": 600,
         "location": 0
       }
     ],
-    "string": "By day I serve as a UX Developer at Eastern Washington University and managing founder of Milkshake Interactive by night, always advocating for FutureAda.org\n\nI'm an accomplished IT professional with 18+ years of web experience. First started as a web designer, then front end, and over the years moved towards concentrating on the user experience.\n\nFueled by coffee, inspired by art, I'm a community organizer, and whenever possible brewing delicious coffee.\n\nIt's no secret: the tech industry has a diversity problem – together let's make it a stronger, diverse, and vibrant community together."
+    "string": "By day I serve as a UX Developer at Eastern Washington University and managing founder of Milkshake Interactive by night, always advocating for FutureAda.org\n\nI'm an accomplished IT professional with 20 years of industry experience. First started as a web designer, then front end, and over the years moved towards concentrating on the user experience.\n\nFueled by coffee, inspired by art, I'm a community organizer, and whenever possible brewing delicious coffee.\n\nIt's no secret: the tech industry has a diversity problem – together let's make it a stronger, diverse, and vibrant community together."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "height": 491,
     "width": 371,
     "x": 221,
-    "y": 107.5
+    "y": 108
   },
   "glyphBounds": "{{0, 3}, {371, 331}}",
   "isFixedToViewport": false,

@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "306F0916-54EC-4506-B106-588DECE284C6",
+  "do_objectID": "68019892-6BED-42B0-A9C4-818BA5D2EB5B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 507,
-    "width": 328,
+    "height": 251,
+    "width": 335,
     "x": 292,
-    "y": -61
+    "y": 535
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/fdf063152b8d8e4e2529b3d92782996b188d9a57.png",
+    "_ref": "images/51d180bc164cb6264de1284604f3b16a49258d9b.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "A Deer",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Bold",
-              "size": 18
+              "name": "Merriweather-LightItalic",
+              "size": 14
             }
           },
-          "kerning": -0.3626667,
+          "kerning": -0.2820741,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,18 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Title Helvetics Bold of course"
+    "string": "sub title Merriweather light italic"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "B0BDF0F0-E864-4841-B3DF-946E96B7B7C8",
+  "do_objectID": "BDA98FA4-5947-47C3-804E-4DFCF8188EDE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6A92E260-2FDE-46F5-8FE9-A9E33B4D9D69",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 241,
+    "do_objectID": "7C7F1705-5646-40C9-86D2-1FF3BB4A2E9F",
+    "height": 18,
+    "width": 203,
     "x": 20,
-    "y": 203
+    "y": 233
   },
-  "glyphBounds": "{{0, 5}, {241, 14}}",
+  "glyphBounds": "{{0, 2}, {203, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title Helvetics Bold",
+  "name": "sub title Merriweath",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D5FC5192-5BE1-4F41-8333-78FA25A2150F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "0456C955-B502-4AAB-B39B-D1268AB9BFFD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,11 +91,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Bold",
-            "size": 18
+            "name": "Merriweather-LightItalic",
+            "size": 14
           }
         },
-        "kerning": -0.3626667,
+        "kerning": -0.2820741,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

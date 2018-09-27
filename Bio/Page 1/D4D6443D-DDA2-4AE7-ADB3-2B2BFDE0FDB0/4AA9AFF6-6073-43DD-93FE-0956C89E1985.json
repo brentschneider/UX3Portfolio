@@ -16,30 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Bold",
-              "size": 18
+              "name": "OpenSans",
+              "size": 16
             }
           },
-          "kerning": -0.3626667,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Title Helvetics Bold of course"
+    "string": "Open Sans Regular text for body\ncopy and descriptions"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "B0BDF0F0-E864-4841-B3DF-946E96B7B7C8",
+  "do_objectID": "4AA9AFF6-6073-43DD-93FE-0956C89E1985",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "725BD6F0-3A18-4926-B1EE-28B314750B68",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 241,
+    "do_objectID": "49070FC1-3AD7-4CF3-81AA-4CCBC1B87A21",
+    "height": 154,
+    "width": 249,
     "x": 20,
-    "y": 203
+    "y": 280
   },
-  "glyphBounds": "{{0, 5}, {241, 14}}",
+  "glyphBounds": "{{0, 4}, {242, 39}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,19 +67,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title Helvetics Bold",
+  "name": "Open Sans Regular te",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E7DD3FA5-2EC5-4204-A6B6-F630D525F395",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E5EB72C0-765A-4789-9F76-CE780817ACEF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,15 +93,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Bold",
-            "size": 18
+            "name": "OpenSans",
+            "size": 16
           }
         },
-        "kerning": -0.3626667,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -103,5 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

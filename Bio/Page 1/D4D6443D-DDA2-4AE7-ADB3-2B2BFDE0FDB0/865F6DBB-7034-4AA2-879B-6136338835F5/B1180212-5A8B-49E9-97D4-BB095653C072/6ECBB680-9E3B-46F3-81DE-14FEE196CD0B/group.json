@@ -1,8 +1,7 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "306F0916-54EC-4506-B106-588DECE284C6",
+  "do_objectID": "6ECBB680-9E3B-46F3-81DE-14FEE196CD0B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,28 +11,32 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 507,
-    "width": 328,
-    "x": 292,
-    "y": -61
+    "constrainProportions": false,
+    "height": 112,
+    "width": 342.9999999999999,
+    "x": 0,
+    "y": 0
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/fdf063152b8d8e4e2529b3d92782996b188d9a57.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "A Deer",
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08C385DB-D786-4258-B3A4-461E55696A8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D55051C6-1C2F-472B-9484-21FDC10FE011"
+    }
+  ],
+  "name": "Group 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
