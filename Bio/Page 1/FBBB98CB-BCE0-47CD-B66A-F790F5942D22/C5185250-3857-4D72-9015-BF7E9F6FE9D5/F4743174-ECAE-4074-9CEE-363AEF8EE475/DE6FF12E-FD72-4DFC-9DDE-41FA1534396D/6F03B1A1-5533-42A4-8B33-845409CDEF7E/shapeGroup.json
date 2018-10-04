@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F03B1A1-5533-42A4-8B33-845409CDEF7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "587EE34D-413E-40BC-9C61-446FD1046AB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C498D23D-5927-4123-AEF9-281692A59269",
+    "height": 256.7368788669067,
+    "width": 259.2370387240906,
+    "x": 0.2611005291005108,
+    "y": 0.8657906924460191
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "19A0CF57-2107-49FA-BB52-A610640A29C4"
+    }
+  ],
+  "name": "Clip 780",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4359EE29-6FAB-46CC-ABBE-874EE38D5BF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

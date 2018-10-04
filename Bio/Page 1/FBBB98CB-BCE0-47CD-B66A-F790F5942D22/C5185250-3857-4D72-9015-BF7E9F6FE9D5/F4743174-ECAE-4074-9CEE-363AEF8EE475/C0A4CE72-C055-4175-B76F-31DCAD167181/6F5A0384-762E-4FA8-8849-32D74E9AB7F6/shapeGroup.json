@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F5A0384-762E-4FA8-8849-32D74E9AB7F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D61189AA-3E57-4DEC-B9FD-3928C4723BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F4B1FE9-A968-49C8-A8C2-9B6928C7D7A7",
+    "height": 256.7368788669067,
+    "width": 259.2370387240906,
+    "x": 0.2611005291005108,
+    "y": 0.8657906924460191
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0E637144-32AA-48A3-B7DF-FA6BBD2A83E4"
+    }
+  ],
+  "name": "Clip 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A92637A-B7E8-480C-BD5E-FB346874D879",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

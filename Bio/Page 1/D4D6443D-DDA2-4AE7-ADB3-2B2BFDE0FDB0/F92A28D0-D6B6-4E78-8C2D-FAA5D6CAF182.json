@@ -28,14 +28,15 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Open Sans Body Copy"
+    "string": "Open Sans for body copy."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "F92A28D0-D6B6-4E78-8C2D-FAA5D6CAF182",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +54,12 @@
     "constrainProportions": false,
     "do_objectID": "AFC79715-F2EF-4B9D-B5DF-D6ACF9CF7DC4",
     "height": 19,
-    "width": 137,
-    "x": 20,
-    "y": 270
+    "width": 157,
+    "x": 19,
+    "y": 259
   },
-  "glyphBounds": "{{0, 3}, {137, 15}}",
+  "glyphBounds": "{{0, 3}, {156, 15}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Open Sans Body Copy",
+  "name": "Open Sans for body c",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

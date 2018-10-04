@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "3FB85307-8853-4D54-AD76-AD46C591AB7B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,11 +38,35 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "0B586586-1F79-4D15-9578-10DD993858B9"
+      "id": "D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0"
     },
     {
       "class": "artboard",
-      "id": "D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0"
+      "id": "57B38FAC-6F26-48DE-B280-E729497D5F96"
+    },
+    {
+      "class": "artboard",
+      "id": "908EF710-2E90-4E41-ABBE-E013F2BA0E21"
+    },
+    {
+      "class": "artboard",
+      "id": "2B40197E-9F73-465D-BC18-3140979AC737"
+    },
+    {
+      "class": "artboard",
+      "id": "A0087471-A25F-452E-B41D-0E7CE06D0722"
+    },
+    {
+      "class": "artboard",
+      "id": "5DC7CD2F-F0AF-4DFE-852A-BF8DE6E3ED04"
+    },
+    {
+      "class": "artboard",
+      "id": "FBBB98CB-BCE0-47CD-B66A-F790F5942D22"
+    },
+    {
+      "class": "artboard",
+      "id": "C4F03463-17F8-4E5F-8DC5-12C9374AE7FC"
     }
   ],
   "name": "Page 1",

@@ -32,10 +32,11 @@
         "location": 0
       }
     ],
-    "string": "Title Helvetics Bold of course"
+    "string": "Title Helvetica Bold of course"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "B0BDF0F0-E864-4841-B3DF-946E96B7B7C8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,11 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 241,
-    "x": 20,
-    "y": 203
+    "width": 242,
+    "x": 19,
+    "y": 202
   },
   "glyphBounds": "{{0, 5}, {241, 14}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title Helvetics Bold",
+  "name": "Title Helvetica Bold",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

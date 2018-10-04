@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 118.5673960160586,
+    "height": 109.4185080948447,
     "width": 346.9453560732119,
     "x": -2.283033111480873,
     "y": 0.07100753161386589
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
