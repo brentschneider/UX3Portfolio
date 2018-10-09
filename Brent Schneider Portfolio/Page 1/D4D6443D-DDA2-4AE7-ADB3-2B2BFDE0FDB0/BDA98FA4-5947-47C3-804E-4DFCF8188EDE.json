@@ -53,12 +53,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7C7F1705-5646-40C9-86D2-1FF3BB4A2E9F",
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/BDA98FA4-5947-47C3-804E-4DFCF8188EDE.json
     "height": 19,
     "width": 166,
     "x": 19,
     "y": 227
   },
   "glyphBounds": "{{0, 4}, {166, 15}}",
+=======
+    "height": 18,
+    "width": 203,
+    "x": 19,
+    "y": 228
+  },
+  "glyphBounds": "{{0, 2}, {203, 16}}",
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/BDA98FA4-5947-47C3-804E-4DFCF8188EDE.json
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

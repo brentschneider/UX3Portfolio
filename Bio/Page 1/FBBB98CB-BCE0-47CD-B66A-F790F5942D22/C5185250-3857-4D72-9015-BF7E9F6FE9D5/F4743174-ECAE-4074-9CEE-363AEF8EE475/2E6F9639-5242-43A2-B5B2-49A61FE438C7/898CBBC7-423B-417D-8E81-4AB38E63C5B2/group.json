@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "898CBBC7-423B-417D-8E81-4AB38E63C5B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4E323E0-88A5-4EBC-934A-701D4590ED65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23BE9AE5-8E37-4AF8-BE6C-E270958967C2",
+    "height": 258,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "916FA089-7337-45DB-94A6-C0B09B237C84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67895C1B-5A13-42E5-974C-D78E8120450B"
+    }
+  ],
+  "name": "Group 360",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02F3681B-5ED5-47DB-B88F-1EB10FDFE061",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

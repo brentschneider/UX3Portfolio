@@ -32,7 +32,11 @@
         "location": 0
       }
     ],
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
     "string": "TITLE HELVETICA MEDIUM"
+=======
+    "string": "Title Helvetica Bold of course"
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +56,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
     "width": 221,
     "x": 19,
     "y": 202
   },
   "glyphBounds": "{{0, 4}, {220, 15}}",
+=======
+    "width": 242,
+    "x": 19,
+    "y": 202
+  },
+  "glyphBounds": "{{0, 5}, {241, 14}}",
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +77,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
   "name": "TITLE HELVETICA MEDI",
+=======
+  "name": "Title Helvetica Bold",
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/B0BDF0F0-E864-4841-B3DF-946E96B7B7C8.json
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

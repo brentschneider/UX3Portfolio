@@ -28,8 +28,13 @@
     ]
   },
   "meta": {
+<<<<<<< HEAD:Brent Schneider Portfolio/document.json
     "appVersion": "52.1",
     "build": 67048,
+=======
+    "appVersion": "52",
+    "build": 66869,
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/document.json
     "version": 112
   },
   "pages": [

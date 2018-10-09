@@ -36,11 +36,19 @@
     "do_objectID": "7D692BCA-7A69-49AF-A975-E4956B9619FA",
     "height": 792,
     "width": 612,
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/artboard.json
     "x": 149,
     "y": -81
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+=======
+    "x": 774,
+    "y": -261
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/artboard.json
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,10 +112,13 @@
       "id": "1B02BB49-9D30-4040-A2BD-694511E43008"
     },
     {
+<<<<<<< HEAD:Brent Schneider Portfolio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/artboard.json
       "class": "rectangle",
       "id": "E5749CE8-3A89-4275-9584-568589D12DCA"
     },
     {
+=======
+>>>>>>> 807190f2f32f0ebde95c22bddb7b09f9d3ef1eee:Bio/Page 1/D4D6443D-DDA2-4AE7-ADB3-2B2BFDE0FDB0/artboard.json
       "class": "text",
       "id": "B0BDF0F0-E864-4841-B3DF-946E96B7B7C8"
     },
