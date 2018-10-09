@@ -1,0 +1,91 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B95F9391-7661-4EA5-A74B-14FF269AE5C7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B40197E-9F73-465D-BC18-3140979AC737",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58201514-7733-467B-A37B-2AD5D87D1B11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30B4E29D-4170-40A9-BFA1-554C17B9EEBC",
+    "height": 612,
+    "width": 792,
+    "x": -903,
+    "y": 2779
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "836C56AC-F344-4C2F-9EB5-8B527196B40D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D58B4E3D-30AB-40F3-B1F3-0A5C8B0551BD"
+    },
+    {
+      "class": "bitmap",
+      "id": "5A382F47-3AAF-4ECF-BC8B-6C8A16BFD80E"
+    }
+  ],
+  "name": "Campus Dining Mobile",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 612
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "732B79BB-7323-42CC-BB9A-241A1D4B5DC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E3D9300-DCA2-4A28-869F-4D571396EFC2",
+    "guides": [
+    ]
+  }
+}
