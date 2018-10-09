@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B65E7CC-80A9-4986-930E-ABA1ECB948F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18B35CC9-8647-4A00-B8FC-EC6BFBFCA704",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC97060A-4CCC-41C4-8E19-668CF418F8FA",
+    "height": 221.9082325089933,
+    "width": 224.3397450496938,
+    "x": 0.2259523809523654,
+    "y": 0.7483384667265982
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A03E2A51-D6D7-4DB6-A4F1-F43E9A1A4F7C"
+    }
+  ],
+  "name": "Clip 915",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D15C3C3-BC25-4A77-82AD-710CC0FE70BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
