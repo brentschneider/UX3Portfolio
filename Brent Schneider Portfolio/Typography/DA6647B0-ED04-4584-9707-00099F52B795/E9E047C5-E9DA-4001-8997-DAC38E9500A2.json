@@ -9,41 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 26
+              "name": "OpenSansLight-Italic",
+              "size": 18
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 74,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "A USER EXPERIENCE DEVELOPER AND FRONTEND DESIGNER HAILING FROM SPOKANE, WA"
+    "string": "Open Sans"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E2CEB56-368C-4E7D-9A05-5F6DCA7E7F3B",
+  "do_objectID": "E9E047C5-E9DA-4001-8997-DAC38E9500A2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9516C47B-FB36-4438-A776-3ABD0EFD521C",
+    "do_objectID": "1C3CA6C1-A4C7-4DE9-986B-0F3625A1E3C4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CF14DCCF-3EAA-4F6C-9946-4ED8E3B1B078",
-    "height": 130,
-    "width": 365,
-    "x": 384,
-    "y": 190
+    "do_objectID": "F9351EDD-B116-47B6-86B1-C37F6CF2CAA2",
+    "height": 24,
+    "width": 83,
+    "x": 459,
+    "y": 377
   },
-  "glyphBounds": "{{0, 6}, {363, 113}}",
+  "glyphBounds": "{{1, 5}, {81, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,49 +63,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "A USER EXPERIENCE DE",
+  "name": "Open Sans",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "92A46357-55F6-43D5-9B51-97EC2E2C69BE",
+    "do_objectID": "01E82106-76F7-497D-9B23-FA9054D10C2D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5A43DC46-0F7D-4AB0-AF8B-BE28FC5B65BF",
+      "do_objectID": "7A5E0F0C-BD43-453F-A1C1-9C2F13F36179",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 26
+            "name": "OpenSansLight-Italic",
+            "size": 18
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,28 +20,24 @@
               "size": 18
             }
           },
-          "kerning": -0.36,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 56,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Let's make something \nbeautiful AND useful  for the user"
+    "string": "Open Sans"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44730142-F1CD-4575-A99F-E0A13D1F430B",
+  "do_objectID": "0A326E4A-C116-4B90-9558-50C59D610187",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "49AB26F0-77A9-4040-891C-9F8ABE5D3B7C",
+    "do_objectID": "3ADC8076-DE0D-433A-8E8C-9D7878074D06",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DFF039FD-A0F4-4F24-97A8-7497EB801787",
-    "height": 48,
-    "width": 239,
-    "x": 73,
-    "y": 545
+    "do_objectID": "1D133DA5-8563-4331-92A3-37A041B15E34",
+    "height": 24,
+    "width": 83,
+    "x": 459,
+    "y": 470
   },
-  "glyphBounds": "{{0, 5}, {240, 43}}",
+  "glyphBounds": "{{1, 5}, {81, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,46 +63,29 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Let's make something",
+  "name": "Open Sans",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F7C6EB01-B6AD-4C63-80AB-03E85A44A7A7",
+    "do_objectID": "16AA2AD3-E686-4CC0-A2C5-06B2019462C9",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.04313725490196074,
-          "green": 1,
-          "red": 0.807843137254902
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D691EFA7-768B-4A05-8DCD-275B0E794E3D",
+      "do_objectID": "BE3A4175-673D-45D6-8C2D-F14A63DAC606",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -115,13 +94,9 @@
             "size": 18
           }
         },
-        "kerning": -0.36,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },

@@ -9,39 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.04313725490196074,
-            "green": 1,
-            "red": 0.807843137254902
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 72
+              "name": "OpenSans-Bold",
+              "size": 26
             }
           },
-          "kerning": -1.44,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 19,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "I’m Brent Schneider"
+    "string": "H4"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DD3B411-851A-4DEB-8933-0C0BE8B2316C",
+  "do_objectID": "6D2901F7-A4A0-45C9-872D-DA2A9C5D1676",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6CC33FD0-A7EC-461A-A684-96890C1E7C60",
+    "do_objectID": "54894F86-F4AE-41D8-964C-863EA2295E0C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BEBD3A85-C339-427F-8D3F-DFE17D3597CF",
-    "height": 86,
-    "width": 632,
-    "x": 49,
-    "y": 65
+    "do_objectID": "34A97A68-9432-4569-A93D-D7F0A55A25BF",
+    "height": 36,
+    "width": 35,
+    "x": 130,
+    "y": 320
   },
-  "glyphBounds": "{{5, 17}, {629, 55}}",
+  "glyphBounds": "{{2, 9}, {33, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,43 +63,39 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I’m Brent Schneider",
+  "name": "H4",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5E295683-8106-4DEB-A451-9AF9F0003A16",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F350B440-FC2D-488E-9B97-C31706D4A850",
+    "do_objectID": "77F895DE-5514-469E-9006-1BC3F1016031",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "031066D3-BE3E-4CAC-8A80-41EB4CCD519E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.04313725490196074,
-          "green": 1,
-          "red": 0.807843137254902
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 72
+            "name": "OpenSans-Bold",
+            "size": 26
           }
         },
-        "kerning": -1.44,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },

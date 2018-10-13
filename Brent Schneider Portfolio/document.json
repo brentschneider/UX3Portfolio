@@ -3,6 +3,34 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.09019607843137255,
+        "red": 0.2588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.09019607843137255,
+        "red": 0.2588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.09019607843137255,
+        "red": 0.2588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.09019607843137255,
+        "red": 0.2588235294117647
+      }
     ],
     "gradients": [
     ],
@@ -28,12 +56,14 @@
     ]
   },
   "meta": {
-    "appVersion": "52.1",
-    "build": 67048,
+    "appVersion": "52.2",
+    "build": 67145,
     "version": 112
   },
   "pages": [
-    "Page 1"
+    "Portfolio",
+    "Typography",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
