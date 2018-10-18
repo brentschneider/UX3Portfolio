@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "FUTURE ADA"
+    "string": "Future Ada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "F105372C-FEFB-4AD9-82B6-F19AE494B0C5",
     "height": 41,
-    "width": 181,
+    "width": 160,
     "x": 45,
     "y": 86
   },
-  "glyphBounds": "{{2, 10}, {180, 23}}",
+  "glyphBounds": "{{2, 9}, {156, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "FUTURE ADA",
+  "name": "Future Ada",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

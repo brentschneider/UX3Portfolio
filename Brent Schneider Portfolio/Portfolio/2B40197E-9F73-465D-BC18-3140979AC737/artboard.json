@@ -48,15 +48,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "D58B4E3D-30AB-40F3-B1F3-0A5C8B0551BD"
-    },
     {
       "class": "bitmap",
       "id": "5A382F47-3AAF-4ECF-BC8B-6C8A16BFD80E"
+    },
+    {
+      "class": "text",
+      "id": "8CEE3E00-32A3-49AB-ABB9-627F50518D47"
     }
   ],
   "name": "Campus Dining Mobile",

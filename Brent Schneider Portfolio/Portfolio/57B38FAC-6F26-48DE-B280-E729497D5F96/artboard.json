@@ -48,14 +48,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
-      "id": "1BDE73A7-10A2-47F1-8376-5AF3D1E04975"
+      "id": "631AA22B-ACF8-4581-8EBF-69C5F54CE8DB"
+    },
+    {
+      "class": "text",
+      "id": "BA0412D6-B41F-4472-964F-99AD9EA9ABCD"
     }
   ],
-  "name": "Infographic",
+  "name": "Resturant",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
