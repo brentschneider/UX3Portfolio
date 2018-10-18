@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 74,
+        "length": 66,
         "location": 0
       }
     ],
-    "string": "A USER EXPERIENCE DEVELOPER AND FRONTEND DESIGNER HAILING FROM SPOKANE, WA"
+    "string": "A USER EXPERIENCE  AND FRONTEND DESIGNER  I LIKE SOLVING\nPROBLEMS."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,9 +52,9 @@
     "height": 191,
     "width": 365,
     "x": 384,
-    "y": 192
+    "y": 182
   },
-  "glyphBounds": "{{-1, 7}, {319, 167}}",
+  "glyphBounds": "{{-1, 7}, {299, 163}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "A USER EXPERIENCE DE",
+  "name": "A USER EXPERIENCE AN",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
