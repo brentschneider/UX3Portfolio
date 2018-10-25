@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,28 +20,23 @@
               "size": 18
             }
           },
-          "kerning": -0.36,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 56,
+        "length": 266,
         "location": 0
       }
     ],
-    "string": "Let's make something \nbeautiful AND useful  for the user"
+    "string": "Future Ada is a non-profit startup, focusing on Securing space for women and non-binary individuals in the STEAM fields. I applied UX methods to develop, branding, an informed decision for site architecture and test multiple Calls to Action to drive users to donate."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44730142-F1CD-4575-A99F-E0A13D1F430B",
+  "do_objectID": "22775CAF-F60A-469C-9463-285346C428A5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "49AB26F0-77A9-4040-891C-9F8ABE5D3B7C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DFF039FD-A0F4-4F24-97A8-7497EB801787",
-    "height": 48,
-    "width": 239,
-    "x": 73,
-    "y": 537
+    "height": 220,
+    "width": 315,
+    "x": 50,
+    "y": 201
   },
-  "glyphBounds": "{{0, 5}, {240, 43}}",
+  "glyphBounds": "{{-3, 5}, {312, 159}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,34 +61,17 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Let's make something",
+  "name": "Future Ada is a non-",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F7C6EB01-B6AD-4C63-80AB-03E85A44A7A7",
+    "do_objectID": "6AB5CF35-A9F0-4390-9A59-B19006378C12",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.7607843137254902,
-          "green": 0.8901960784313725,
-          "red": 0.3137254901960784
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
@@ -103,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -114,17 +91,13 @@
             "size": 18
           }
         },
-        "kerning": -0.36,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

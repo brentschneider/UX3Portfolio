@@ -9,39 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.7598996162414551,
+            "green": 0.8883756995201111,
+            "red": 0.3143693506717682
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 30
+              "name": "HelveticaNeue-Medium",
+              "size": 72
             }
           },
-          "kerning": -0.6044445,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 10,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Future Ada"
+    "string": "Brent Schneider"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AAE0D1C4-0264-44D0-A871-959E9DE36630",
+  "do_objectID": "950D3DB6-F75C-4D21-8C11-E5CAB99FA4E4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CA512954-2C9B-4B64-9529-6BD9C943302B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F105372C-FEFB-4AD9-82B6-F19AE494B0C5",
-    "height": 41,
-    "width": 160,
-    "x": 45,
-    "y": 86
+    "height": 86,
+    "width": 537,
+    "x": 50,
+    "y": 44
   },
-  "glyphBounds": "{{2, 9}, {156, 24}}",
+  "glyphBounds": "{{5, 17}, {532, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,43 +61,57 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Future Ada",
+  "name": "Brent Schneider",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "658D3011-84C4-4924-B6F5-4038DBCA42C0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5CE7BE7F-0B43-40EA-862C-7D45195B528A",
+    "do_objectID": "B8222A39-5EEA-4670-BBCC-9B196122E860",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D43FA197-9DCC-4C74-807C-9236C3F4D65A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.7598996162414551,
+          "green": 0.8883756995201111,
+          "red": 0.3143693506717682
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 30
+            "name": "HelveticaNeue-Medium",
+            "size": 72
           }
         },
-        "kerning": -0.6044445,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },

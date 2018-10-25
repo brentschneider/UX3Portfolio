@@ -48,12 +48,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "FE241EDA-B5E5-4B99-8D22-1F700BCB0BC9"
-    },
     {
       "class": "bitmap",
       "id": "5612088B-2B9A-4B84-AA19-8D4B776ADB60"
@@ -61,6 +57,26 @@
     {
       "class": "bitmap",
       "id": "9C49D21E-1E6B-47A8-AFBA-A580DA73CD87"
+    },
+    {
+      "class": "polygon",
+      "id": "FCD26829-B010-406A-B912-2DEB84D9FC28"
+    },
+    {
+      "class": "text",
+      "id": "FCBD86BC-D800-455F-B0C1-A74268F38698"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "099A866D-7B78-4C85-8FF7-B624A7F3BC74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B7D60E0-3D2A-4E72-8141-338B59FAFEAD"
+    },
+    {
+      "class": "text",
+      "id": "1413E9E7-11A7-4CD2-A33B-06001FA5BEB1"
     }
   ],
   "name": "3D Cardboars",

@@ -57,6 +57,10 @@
     {
       "class": "text",
       "id": "BA0412D6-B41F-4472-964F-99AD9EA9ABCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6025123E-0132-44C1-B1C8-28639561C43A"
     }
   ],
   "name": "Resturant",

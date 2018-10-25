@@ -3,10 +3,9 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D496EC79-B836-430D-828A-20C2A93670B7",
+  "do_objectID": "F2EE4297-FEE6-4CE1-BF15-BAE47CA5B85B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "021A062D-762A-45F1-8472-4F20E0F75377",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,16 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "648C16CB-FF55-4527-B311-A629DB5CB2A6",
-    "height": 224,
-    "width": 415,
-    "x": 326,
-    "y": 232
+    "height": 391,
+    "width": 391,
+    "x": -13,
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/4e44610440399549cfd946171f572a656ad1f193.png",
+    "_ref": "images/cd168581e20398d20e1fb19b4f92772268334244.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -37,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "Brent",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +43,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6040EE8B-AA92-42E1-8254-D959C71F7062",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

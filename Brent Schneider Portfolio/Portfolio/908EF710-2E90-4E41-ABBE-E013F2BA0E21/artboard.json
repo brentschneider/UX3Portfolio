@@ -57,6 +57,10 @@
     {
       "class": "bitmap",
       "id": "6A0A62E7-CA7A-4696-8766-9B376F21C21D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D361FB6-C2EB-4957-9E28-F7FD109918EC"
     }
   ],
   "name": "UX Community",

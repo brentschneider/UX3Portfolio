@@ -51,10 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "AAE0D1C4-0264-44D0-A871-959E9DE36630"
-    },
-    {
       "class": "group",
       "id": "C5185250-3857-4D72-9015-BF7E9F6FE9D5"
     },
@@ -63,8 +59,20 @@
       "id": "48AA55FF-363C-4D5E-B688-CEC44C482C41"
     },
     {
-      "class": "rectangle",
-      "id": "A02220BD-28CF-4978-A5E5-4D0011936121"
+      "class": "symbolInstance",
+      "id": "BFBF0401-E30C-4E2B-80EA-79F45843FF49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3833E79B-08AD-41A0-95B1-827B06255E49"
+    },
+    {
+      "class": "text",
+      "id": "EBCE4C46-8151-4BEE-BD7D-77743028B639"
+    },
+    {
+      "class": "text",
+      "id": "22775CAF-F60A-469C-9463-285346C428A5"
     }
   ],
   "name": "Future Ada",

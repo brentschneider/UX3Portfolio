@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "133B6934-2B1C-4F0F-B2F7-4E26767DD446",
+  "do_objectID": "1971176C-F7E3-42B9-BF0A-849CD17F48E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 86,
-    "width": 659,
-    "x": 49,
-    "y": 65
+    "height": 338,
+    "width": 338,
+    "x": 378,
+    "y": 221
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,14 +27,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "950D3DB6-F75C-4D21-8C11-E5CAB99FA4E4"
+      "class": "oval",
+      "id": "858B4FCA-2984-48D4-B75D-0C9E58FFA5EB"
+    },
+    {
+      "class": "bitmap",
+      "id": "F2EE4297-FEE6-4CE1-BF15-BAE47CA5B85B"
     }
   ],
-  "name": "Header/H1",
+  "name": "Brent",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

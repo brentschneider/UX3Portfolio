@@ -30,7 +30,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 24,
         "location": 0
       },
       {
@@ -61,7 +61,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 13
+        "location": 24
       },
       {
         "_class": "stringAttribute",
@@ -88,8 +88,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
-        "location": 14
+        "length": 40,
+        "location": 25
       },
       {
         "_class": "stringAttribute",
@@ -117,10 +117,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 44
+        "location": 65
       }
     ],
-    "string": "Campus Dining\nMobile App Highlight Locations\n"
+    "string": "Campus Dining Mobile App\nMobile App to highlight campus locations\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -142,11 +142,11 @@
     "constrainProportions": false,
     "do_objectID": "7680BCFF-086B-4359-BE90-3476E831B6B3",
     "height": 97,
-    "width": 275,
+    "width": 391,
     "x": 45,
     "y": 70
   },
-  "glyphBounds": "{{1, 7}, {275, 60}}",
+  "glyphBounds": "{{1, 7}, {389, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -48,15 +48,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "B19BB7E1-9856-4A4A-BAA7-2E1C82A40642"
     },
     {
+      "class": "symbolInstance",
+      "id": "B0C75780-5399-4F42-8557-697C14DFA5F8"
+    },
+    {
       "class": "bitmap",
-      "id": "D496EC79-B836-430D-828A-20C2A93670B7"
+      "id": "AE1B944E-FC98-41AE-BFD6-85826064CAF6"
     }
   ],
   "name": "Website Interactions",

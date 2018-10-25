@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 338,
     "width": 270,
-    "x": 57,
-    "y": 190
+    "x": 112,
+    "y": 210
   },
   "hasClippingMask": false,
   "image": {
@@ -33,7 +33,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Bitmap",
   "nameIsFixed": false,

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2901960784313726,
-    "green": 0.2980392156862745,
-    "red": 0.2941176470588235
+    "blue": 0.2902374565601349,
+    "green": 0.2901752889156342,
+    "red": 0.290221631526947
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -27,10 +27,10 @@
     "height": 612,
     "width": 792,
     "x": -903,
-    "y": -81
+    "y": -796
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,31 +47,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "133B6934-2B1C-4F0F-B2F7-4E26767DD446"
+      "class": "triangle",
+      "id": "3803F73E-1FB2-47DC-B834-56919D0C5284"
     },
     {
       "class": "text",
-      "id": "44730142-F1CD-4575-A99F-E0A13D1F430B"
+      "id": "950D3DB6-F75C-4D21-8C11-E5CAB99FA4E4"
     },
     {
       "class": "text",
       "id": "5E2CEB56-368C-4E7D-9A05-5F6DCA7E7F3B"
-    },
-    {
-      "class": "shapePath",
-      "id": "7A6368D8-1581-4DEC-8E25-0039D054ECEA"
-    },
-    {
-      "class": "shapePath",
-      "id": "C94DFFD2-BBA9-469B-B505-31ECB9293766"
-    },
-    {
-      "class": "shapePath",
-      "id": "43DFB6F7-F84A-4D81-86DA-B79C3A3C3717"
     },
     {
       "class": "text",
@@ -84,6 +72,10 @@
     {
       "class": "bitmap",
       "id": "344EF7C0-CE7C-4DCB-85A6-60F1769747EC"
+    },
+    {
+      "class": "group",
+      "id": "1971176C-F7E3-42B9-BF0A-849CD17F48E8"
     }
   ],
   "name": "Brent Schneider",
