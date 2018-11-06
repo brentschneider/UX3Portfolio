@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C5995B5-FA1C-44F0-B445-29CA4EFFD2B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CBFF78C-19B5-4E78-9121-41E3BF340261",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68639E55-E234-4B69-BA8D-2DD1E88A1126",
+    "height": 283.5361764016987,
+    "width": 287.1548736636078,
+    "x": 0.2892190476190238,
+    "y": 0.02501810060148869
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "847F78B3-B12B-466A-BD12-7CED81BCD91E"
+    }
+  ],
+  "name": "Clip 999",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42284E86-06E5-428B-B77F-3BAEFFD956DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

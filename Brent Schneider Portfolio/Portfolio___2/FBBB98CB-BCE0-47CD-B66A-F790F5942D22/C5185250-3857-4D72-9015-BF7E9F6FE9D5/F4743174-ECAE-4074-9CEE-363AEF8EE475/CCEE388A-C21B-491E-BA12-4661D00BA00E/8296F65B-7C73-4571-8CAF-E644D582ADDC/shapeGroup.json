@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8296F65B-7C73-4571-8CAF-E644D582ADDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8E78835-FE72-4D2D-BA1A-0C7D39B03545",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B055A075-23F9-485B-BAC8-E7A5014C0C9A",
+    "height": 283.5361764016987,
+    "width": 287.1548736636078,
+    "x": 0.2892190476190238,
+    "y": 0.02501810060148869
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A14A679A-1258-4D9E-8EBF-3AD79EFD4AA4"
+    }
+  ],
+  "name": "Clip 759",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE542A9D-52AF-4C23-AA28-164734782942",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

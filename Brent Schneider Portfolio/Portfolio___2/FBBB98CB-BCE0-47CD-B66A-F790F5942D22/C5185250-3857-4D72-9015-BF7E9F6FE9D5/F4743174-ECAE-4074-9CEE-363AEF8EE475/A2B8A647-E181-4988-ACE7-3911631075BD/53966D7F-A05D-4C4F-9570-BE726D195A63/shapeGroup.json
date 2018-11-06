@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53966D7F-A05D-4C4F-9570-BE726D195A63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4566DB41-364C-4C65-B676-CAA069F83B2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B731F2F-E00E-4533-BFCA-2B5A945F3885",
+    "height": 283.5361764016987,
+    "width": 287.1548736636078,
+    "x": 0.2892190476190238,
+    "y": 0.02501810060148869
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8C84CE88-F4BC-4E88-9306-9CA2D80A25B4"
+    }
+  ],
+  "name": "Clip 840",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB128E71-DBEE-4016-9C9F-6D63A9B54E34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

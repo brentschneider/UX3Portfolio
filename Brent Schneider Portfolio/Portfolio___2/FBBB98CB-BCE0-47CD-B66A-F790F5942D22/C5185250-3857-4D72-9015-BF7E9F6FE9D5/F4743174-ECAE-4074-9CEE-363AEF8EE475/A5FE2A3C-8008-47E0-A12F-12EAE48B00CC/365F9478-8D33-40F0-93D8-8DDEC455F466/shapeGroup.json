@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "365F9478-8D33-40F0-93D8-8DDEC455F466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9586594E-E8DA-4B59-8C6C-AE9BBCAA720B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45705188-1A56-4E46-80EF-6F77B4CB54E1",
+    "height": 283.5361764016987,
+    "width": 287.1548736636078,
+    "x": 0.2892190476190238,
+    "y": 0.02501810060148869
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "108B061F-8A93-41AF-8BC3-E1B07621E17D"
+    }
+  ],
+  "name": "Clip 858",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B74EEA7-BBB3-4D9C-A9AC-E0D8B4B7E19C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
