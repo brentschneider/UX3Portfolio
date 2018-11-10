@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 38,
+        "length": 30,
         "location": 0
       },
       {
@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
-        "location": 38
+        "length": 39,
+        "location": 30
       }
     ],
-    "string": "Eastern Washington University Website\nFull Redesign and CMS Migration"
+    "string": "Eastern Washington University\nFull Website Redesign and CMS Migration"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,11 +82,11 @@
     "constrainProportions": false,
     "do_objectID": "22EF032D-937A-4EEF-9AB0-9AF8C9864D89",
     "height": 71,
-    "width": 557,
+    "width": 436,
     "x": 50,
     "y": 55
   },
-  "glyphBounds": "{{1, 9}, {555, 62}}",
+  "glyphBounds": "{{1, 9}, {436, 62}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

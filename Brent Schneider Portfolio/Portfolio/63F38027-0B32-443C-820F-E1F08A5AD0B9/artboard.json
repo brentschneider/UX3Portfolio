@@ -1,0 +1,94 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63F38027-0B32-443C-820F-E1F08A5AD0B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 792,
+    "width": 1224,
+    "x": -903,
+    "y": -1279
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "triangle",
+      "id": "3A1249E9-18D5-4267-A18A-007546A3AF26"
+    },
+    {
+      "class": "triangle",
+      "id": "3803F73E-1FB2-47DC-B834-56919D0C5284"
+    },
+    {
+      "class": "text",
+      "id": "950D3DB6-F75C-4D21-8C11-E5CAB99FA4E4"
+    },
+    {
+      "class": "text",
+      "id": "5E2CEB56-368C-4E7D-9A05-5F6DCA7E7F3B"
+    },
+    {
+      "class": "text",
+      "id": "541C89E8-5D30-409E-B89A-EF134F3D0788"
+    },
+    {
+      "class": "group",
+      "id": "1971176C-F7E3-42B9-BF0A-849CD17F48E8"
+    }
+  ],
+  "name": "Brent Schneider",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

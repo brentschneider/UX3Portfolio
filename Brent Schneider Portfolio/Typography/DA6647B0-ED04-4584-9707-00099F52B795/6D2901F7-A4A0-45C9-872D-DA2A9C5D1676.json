@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 26
             }
           },
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "34A97A68-9432-4569-A93D-D7F0A55A25BF",
-    "height": 36,
-    "width": 35,
+    "height": 31,
+    "width": 36,
     "x": 130,
-    "y": 320
+    "y": 323
   },
-  "glyphBounds": "{{2, 9}, {33, 19}}",
+  "glyphBounds": "{{1, 6}, {35, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
+            "name": "SFProDisplay-Bold",
             "size": 26
           }
         },

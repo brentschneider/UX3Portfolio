@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue",
+              "name": "SFProDisplay-Semibold",
               "size": 30
             }
           },
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "805C6EA0-B130-4164-93BB-F41D3D80540A",
-    "height": 35,
-    "width": 39,
+    "height": 36,
+    "width": 41,
     "x": 130,
     "y": 265
   },
-  "glyphBounds": "{{2, 7}, {35, 23}}",
+  "glyphBounds": "{{1, 7}, {38, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue",
+            "name": "SFProDisplay-Semibold",
             "size": 30
           }
         },
