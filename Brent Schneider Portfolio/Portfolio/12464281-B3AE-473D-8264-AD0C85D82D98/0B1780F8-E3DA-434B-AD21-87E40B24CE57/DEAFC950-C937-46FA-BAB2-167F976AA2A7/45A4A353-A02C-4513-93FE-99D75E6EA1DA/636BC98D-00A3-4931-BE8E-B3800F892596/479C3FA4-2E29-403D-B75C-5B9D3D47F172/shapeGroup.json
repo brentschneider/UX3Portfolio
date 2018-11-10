@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "479C3FA4-2E29-403D-B75C-5B9D3D47F172",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7E1F66A-CCA9-4731-BBF0-FE7014EEF5FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D342C47A-87A0-421D-B6FA-C59A93BC3095",
+    "height": 230.6227350309592,
+    "width": 233.3133348516813,
+    "x": 0.2349904761904568,
+    "y": 0.02034922971459116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F609806D-4E6C-41C8-8094-FA5B7554CFA4"
+    }
+  ],
+  "name": "Clip 473",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D99444A5-7980-4E4B-9725-FE1D5EEA95DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

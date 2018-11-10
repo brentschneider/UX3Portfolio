@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2FD95CD8-F3B9-40E1-B809-F09D42A0F2F5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2E7BF21-32F1-4316-A42E-5ED542985647",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53635940-A670-491C-A088-76448F76F82F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00D3A644-F4F4-4565-A137-382F81027FAA",
+    "height": 792,
+    "width": 1224,
+    "x": -903,
+    "y": 1970
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "53530901-9E94-44F2-A601-66E4B3AC0B93",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "29A2A423-57D5-4E15-AE6D-1CCF69E034F5"
+    },
+    {
+      "class": "polygon",
+      "id": "2F4DCC13-7E47-41EB-A64A-06FEE83B423B"
+    },
+    {
+      "class": "text",
+      "id": "391AEE7E-E2EA-4B8B-9DDA-8B46B712C0FB"
+    },
+    {
+      "class": "group",
+      "id": "619B7DFE-248C-4147-A81D-6F26AC23AFA9"
+    },
+    {
+      "class": "text",
+      "id": "7995C462-FAE5-4398-83E2-5F7EFDFBCC29"
+    },
+    {
+      "class": "bitmap",
+      "id": "D6219D73-B689-4805-920B-F6E39DE584BD"
+    }
+  ],
+  "name": "3D CARDBOARD",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Tabloid",
+    "offersLandscapeVariant": 0,
+    "width": 1224
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F8AE02C-0E8E-4CF8-9C9B-80EA398165E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BEF8F03E-B6A6-4BF8-A8E8-E5F180BAF118",
+    "guides": [
+    ]
+  }
+}

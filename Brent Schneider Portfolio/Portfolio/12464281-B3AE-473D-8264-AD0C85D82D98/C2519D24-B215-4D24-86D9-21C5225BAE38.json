@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2519D24-B215-4D24-86D9-21C5225BAE38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39524CA9-6C13-4E14-8E19-E0D371F43C3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56DF841A-718A-42CF-9A4B-F9C44920C543",
+    "height": 46,
+    "width": 250,
+    "x": 609,
+    "y": 452
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D23A2246-7980-450D-B3D5-5EF186730C19",
+      "overrideName": "BA70782F-36C7-4DBF-892C-4218011A6522/C3FBAA50-A150-4241-8089-A76C6D830FDC_stringValue",
+      "value": "VIEW REACT PROTOTYPE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1563AD6D-5D16-4C50-836D-F5CF9896687C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "976B6DC5-903E-4A51-B1A2-FE9C9C964FBB",
+  "verticalSpacing": 0
+}

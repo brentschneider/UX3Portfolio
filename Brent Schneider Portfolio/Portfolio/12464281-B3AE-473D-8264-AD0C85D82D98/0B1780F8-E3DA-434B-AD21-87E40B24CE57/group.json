@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B1780F8-E3DA-434B-AD21-87E40B24CE57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12CFA53D-D985-490E-B666-CF80B6E3C964",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4079A0A8-71E6-4B3A-A0F7-BBA39059D357",
+    "height": 239,
+    "width": 242,
+    "x": 622,
+    "y": 170
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7DCBA310-70A2-4144-9412-52A0DCF3102D"
+    },
+    {
+      "class": "group",
+      "id": "DEAFC950-C937-46FA-BAB2-167F976AA2A7"
+    },
+    {
+      "class": "group",
+      "id": "943D7481-DFC2-4610-AB7C-3C7104BAD90E"
+    }
+  ],
+  "name": "FutureAda Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95B448E3-6465-4B79-812D-9E9357A136F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

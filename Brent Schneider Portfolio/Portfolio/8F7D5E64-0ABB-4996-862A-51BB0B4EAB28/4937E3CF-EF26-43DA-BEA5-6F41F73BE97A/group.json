@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4937E3CF-EF26-43DA-BEA5-6F41F73BE97A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9E0B12A-3A2D-4CE6-9F0D-EA2953A6F8B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91B2F440-AF0F-4D47-A3B8-C8EB2D61E3CA",
+    "height": 174,
+    "width": 95,
+    "x": 612,
+    "y": 451
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6BE664A1-31DC-43A4-A373-6DFB5C4FCCF8"
+    },
+    {
+      "class": "rectangle",
+      "id": "49839B8D-94D0-4BC4-A4E8-291F53A5D408"
+    },
+    {
+      "class": "shapePath",
+      "id": "19614A5D-48FF-4E36-9321-AE466E5E2E6E"
+    },
+    {
+      "class": "oval",
+      "id": "E54A78D0-A53B-402B-AA7B-46BF6F96DCA5"
+    }
+  ],
+  "name": "Phone",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A152220-856D-4949-8A75-6CC02E55086B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

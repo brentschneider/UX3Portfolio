@@ -1,0 +1,95 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0535EDC8-E103-4934-9EE8-711FA39B819F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E36C976-1B5D-4DFF-B19E-07C691DDBA07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4B886CD-6CD8-4BE0-AC49-0060AD9825DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0EC66D8-E274-4609-90A4-59961DD39ABB",
+    "height": 792,
+    "width": 1224,
+    "x": -903,
+    "y": 6486
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A9579AC-0073-42DB-AD25-D3B35786D2F8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "130EB3ED-4AAC-4468-8224-43F39B95DEA5"
+    },
+    {
+      "class": "group",
+      "id": "93ABAE5D-8181-4281-996F-31EEA56A43D8"
+    },
+    {
+      "class": "bitmap",
+      "id": "30FB5D95-7FB4-4751-9E94-9FAF1FE79E22"
+    }
+  ],
+  "name": "WEBSITE RESTURANT",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Tabloid",
+    "offersLandscapeVariant": 0,
+    "width": 1224
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "611D5827-32B8-449B-899B-E07EB349F752",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "79003BB8-6B4D-467D-821F-5B5EE05D58B4",
+    "guides": [
+    ]
+  }
+}
