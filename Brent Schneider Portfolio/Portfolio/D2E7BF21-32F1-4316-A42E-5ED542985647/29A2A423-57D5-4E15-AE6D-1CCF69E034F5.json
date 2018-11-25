@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "4040DD65-C186-4F90-9F14-9CC66E9092B8",
     "height": 87,
-    "width": 303,
+    "width": 375,
     "x": 30,
     "y": 30
   },
@@ -37,13 +37,13 @@
       "_class": "overrideValue",
       "do_objectID": "DACF133F-BE2E-4F5A-9A41-173765CBAB37",
       "overrideName": "51B97EF0-374D-4654-905A-52701E086A86_stringValue",
-      "value": "Cardboard 3D"
+      "value": "AR Google Cardboard"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "7A7D6750-02D9-4B6C-936B-2988C87ADD44",
       "overrideName": "9B4F594D-2232-4691-93BD-21728BB63FE1_stringValue",
-      "value": "Instructional Technology Faculty Bootcamp AI intergration"
+      "value": "From analog to digital"
     }
   ],
   "resizingConstraint": 63,

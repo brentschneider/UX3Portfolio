@@ -9,26 +9,80 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSansLight-Italic",
-              "size": 18
+              "name": "OpenSans",
+              "size": 20
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           }
         },
-        "length": 243,
+        "length": 245,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 13,
+        "location": 245
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 60,
+        "location": 258
       }
     ],
-    "string": "To build a better ewu.edu for students, employees and the entire EWU community. Administering discovery and planning sessions with university stakeholders, Develop goals mapping content to refine information architecture and design wireframes."
+    "string": "To build a better ewu.edu for students, employees and the entire EWU community. Administering discovery and planning sessions with university stakeholders, Develop goals mapping content to refine information architecture and design wireframes.\n\nMethods Used:\n• User personas\n• Paper Prototyping\n• In-context interviews"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +103,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B21A1C0B-7AAB-46AE-B732-D421FF3089EC",
-    "height": 205,
-    "width": 283,
-    "x": 50,
-    "y": 170
+    "height": 524,
+    "width": 375,
+    "x": 70,
+    "y": 150
   },
-  "glyphBounds": "{{-1, 5}, {280, 187}}",
+  "glyphBounds": "{{0, 7}, {360, 347}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +122,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
+  "sharedStyleID": "C165BB2B-0B32-4015-B382-49ED0B2B13D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,24 +132,25 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FA6EA84C-6651-49BD-ABF4-A58A1D714352",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSansLight-Italic",
-            "size": 18
+            "name": "OpenSans",
+            "size": 20
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         }
       },
       "verticalAlignment": 0

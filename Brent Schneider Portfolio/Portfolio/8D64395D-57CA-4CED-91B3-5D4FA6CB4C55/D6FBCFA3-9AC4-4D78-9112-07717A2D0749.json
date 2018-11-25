@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6FBCFA3-9AC4-4D78-9112-07717A2D0749",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C36FA04-0C4E-4980-8CD1-30BE0022D3EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A05FB43E-C103-4876-899E-70427225DD69",
+    "height": 87,
+    "width": 375,
+    "x": 30,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Intro",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9EB094B-935C-492E-9556-2FAA6F4C625D",
+      "overrideName": "51B97EF0-374D-4654-905A-52701E086A86_stringValue",
+      "value": "Campus Dining Mobile App"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0952265-E87D-437C-8124-E624C12BA630",
+      "overrideName": "9B4F594D-2232-4691-93BD-21728BB63FE1_stringValue",
+      "value": "Prototyping\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B66A664-C7B0-4AC7-9B49-3479C744C901",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BBA0C7B5-DA48-4B06-AE46-DBC4BA5F682A",
+  "verticalSpacing": 0
+}

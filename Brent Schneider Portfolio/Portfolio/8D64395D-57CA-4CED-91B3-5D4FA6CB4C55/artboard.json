@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2895BC31-40FB-4D5B-85DC-0E9BC654F4F6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D64395D-57CA-4CED-91B3-5D4FA6CB4C55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "581383B7-DEC9-4F95-AB4C-B97973B042E5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F875493-7B6E-42A8-BC17-E2CE9247464B",
+    "height": 792,
+    "width": 1224,
+    "x": 1686,
+    "y": 4228
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7663BDA0-3FE1-42F4-8984-B04125126B56",
+    "guides": [
+      612
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D6FBCFA3-9AC4-4D78-9112-07717A2D0749"
+    },
+    {
+      "class": "text",
+      "id": "4404F293-FC8A-4C14-A761-7EA5922614F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF2770AF-18E0-4C9C-A41F-37525CD75A92"
+    },
+    {
+      "class": "bitmap",
+      "id": "755EFC45-D1F3-4C7B-BB15-3EAB54B73447"
+    },
+    {
+      "class": "bitmap",
+      "id": "759FB0CA-3674-4B50-8A62-879B16081425"
+    },
+    {
+      "class": "bitmap",
+      "id": "05735245-CF68-44E1-A9B6-2EDBC73AD213"
+    },
+    {
+      "class": "bitmap",
+      "id": "6F167E3D-43D3-4176-B969-D97AD1F44B6E"
+    },
+    {
+      "class": "bitmap",
+      "id": "3F50A88A-DF47-424D-A7DC-64751E114305"
+    }
+  ],
+  "name": "MOBILE APP Wire Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Tabloid",
+    "offersLandscapeVariant": 0,
+    "width": 1224
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFD9028A-1D2D-4595-A531-1DA76BC442CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6CDA5475-AED4-442E-A0AD-CCDEC9A0EF2B",
+    "guides": [
+    ]
+  }
+}

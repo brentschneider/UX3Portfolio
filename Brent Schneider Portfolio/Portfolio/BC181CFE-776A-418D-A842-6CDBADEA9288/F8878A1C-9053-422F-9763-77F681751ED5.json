@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8878A1C-9053-422F-9763-77F681751ED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CA383E2-0A06-48B2-A39C-92DEB778456B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "636CEC0E-3F59-461F-8750-FCE0F2261990",
+    "height": 87,
+    "width": 375,
+    "x": 30,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Intro",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "243769AB-FDFA-463C-8F2B-8D04D66F73A1",
+      "overrideName": "51B97EF0-374D-4654-905A-52701E086A86_stringValue",
+      "value": "Eastern Washington University"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00BCE385-A3C4-4102-9CCE-1F6553BF88BF",
+      "overrideName": "9B4F594D-2232-4691-93BD-21728BB63FE1_stringValue",
+      "value": "Full Website Redesign and CMS Migration"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80B66C69-E637-4C36-B88F-4D52026CECBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BBA0C7B5-DA48-4B06-AE46-DBC4BA5F682A",
+  "verticalSpacing": 0
+}

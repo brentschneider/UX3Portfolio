@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "53635940-A670-491C-A088-76448F76F82F",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -38,6 +47,7 @@
     "base": 0,
     "do_objectID": "53530901-9E94-44F2-A601-66E4B3AC0B93",
     "guides": [
+      612
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -55,24 +65,16 @@
       "id": "29A2A423-57D5-4E15-AE6D-1CCF69E034F5"
     },
     {
-      "class": "polygon",
-      "id": "2F4DCC13-7E47-41EB-A64A-06FEE83B423B"
-    },
-    {
       "class": "text",
       "id": "391AEE7E-E2EA-4B8B-9DDA-8B46B712C0FB"
     },
     {
-      "class": "group",
-      "id": "619B7DFE-248C-4147-A81D-6F26AC23AFA9"
-    },
-    {
-      "class": "text",
-      "id": "7995C462-FAE5-4398-83E2-5F7EFDFBCC29"
+      "class": "symbolInstance",
+      "id": "428B5458-AFF9-4FF2-A4AA-96E91E364F25"
     },
     {
       "class": "bitmap",
-      "id": "D6219D73-B689-4805-920B-F6E39DE584BD"
+      "id": "C3D0A627-A505-462F-9932-65FD1F03E384"
     }
   ],
   "name": "3D CARDBOARD",

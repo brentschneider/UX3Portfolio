@@ -9,26 +9,28 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 26
+              "size": 20
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           }
         },
-        "length": 269,
+        "length": 541,
         "location": 0
       }
     ],
-    "string": "Alongside my clients, I uncover problems and help solve them.\n\nMy process includes research, sketching, wireframing, prototyping, and user testing.  But most importantly, starting with the question, Why?\n\nIn short, I create digital products with knowledge and passion.\n"
+    "string": "A multidisciplinary UX professional with 10+ years of applied industry experience creating usable and delightful online experiences across a wide range of products and vertices. My process includes research, prototyping, user testing, identifying needs and behaviors of users to lead project teams from ambiguity to clarity that satisfies user, business and development goals. \n\nI am deeply interested in creating work that tells stories, builds communities, connects between the traditional and digital realms, and actively creates change.\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A7BB1E86-FB88-4B6E-B266-52BD041256BF",
-    "height": 409,
-    "width": 395,
-    "x": 55,
-    "y": 283
+    "height": 569,
+    "width": 427,
+    "x": 70,
+    "y": 224
   },
-  "glyphBounds": "{{0, 8}, {390, 387}}",
+  "glyphBounds": "{{0, 7}, {425, 411}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,12 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Alongside my clients",
+  "name": "A multidisciplinary",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5E295683-8106-4DEB-A451-9AF9F0003A16",
+  "sharedStyleID": "C165BB2B-0B32-4015-B382-49ED0B2B13D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,19 +84,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans",
-            "size": 26
+            "size": 20
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         }
       },
       "verticalAlignment": 0

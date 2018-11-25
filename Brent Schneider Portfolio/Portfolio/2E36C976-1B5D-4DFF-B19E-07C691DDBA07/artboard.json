@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "B4B886CD-6CD8-4BE0-AC49-0060AD9825DD",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -38,6 +47,7 @@
     "base": 0,
     "do_objectID": "0A9579AC-0073-42DB-AD25-D3B35786D2F8",
     "guides": [
+      612
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,19 +58,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "130EB3ED-4AAC-4468-8224-43F39B95DEA5"
     },
     {
-      "class": "group",
-      "id": "93ABAE5D-8181-4281-996F-31EEA56A43D8"
-    },
-    {
       "class": "bitmap",
       "id": "30FB5D95-7FB4-4751-9E94-9FAF1FE79E22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4A9DEFF-9397-4157-A927-7BE35426700A"
+    },
+    {
+      "class": "text",
+      "id": "FD9BA5B1-5B4B-4855-9A5C-B7D3DC7A1ADD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C9BE5A0-EB78-4EEF-861A-288DDD30A982"
     }
   ],
   "name": "WEBSITE RESTURANT",

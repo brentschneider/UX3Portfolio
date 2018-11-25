@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D7C8BFD-E632-45B2-B664-84138F038224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A58C85BC-EAD0-4200-9509-053A4A393BA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "515946B2-EDFC-457C-92BB-53B80C84F9EC",
+    "height": 46,
+    "width": 263,
+    "x": 823,
+    "y": 662
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Primary Solid",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24292F76-1A56-41D7-867F-A16F7CA8CAC2",
+      "overrideName": "C671310E-63DA-41C2-A655-ED045B1EC31D/C30681AB-577D-4ABC-8168-F126453B21EE_stringValue",
+      "value": "VIEW LIVE SITE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A6F6BFC-96D5-4CBD-87E9-2A6299154E59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "984BA0A3-0988-46C6-B91B-F6D5A56D36C8",
+  "verticalSpacing": 0
+}

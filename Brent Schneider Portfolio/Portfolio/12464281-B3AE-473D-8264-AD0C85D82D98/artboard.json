@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,6 +43,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      612
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -55,24 +65,20 @@
       "id": "9158F700-FC40-4B52-9637-FA7B749E6434"
     },
     {
-      "class": "text",
-      "id": "A5DF6087-6074-4736-9D5A-E4FB6CDAE7DE"
-    },
-    {
-      "class": "group",
-      "id": "0B1780F8-E3DA-434B-AD21-87E40B24CE57"
+      "class": "symbolInstance",
+      "id": "5D983A56-806B-4AC7-8ED8-30A704A6998E"
     },
     {
       "class": "symbolInstance",
-      "id": "C2519D24-B215-4D24-86D9-21C5225BAE38"
+      "id": "EF8C14E9-6368-40A1-B576-CBA4DF5994A2"
+    },
+    {
+      "class": "bitmap",
+      "id": "5324E17F-A8A9-4FDC-A61F-5203B475B2CE"
     },
     {
       "class": "symbolInstance",
-      "id": "D4532182-5F3A-4B2A-95E0-0896D704DF10"
-    },
-    {
-      "class": "group",
-      "id": "63A635C6-428D-4981-971C-44ACA9A4729F"
+      "id": "5044EC74-4036-4576-878C-110A2F5A5B6A"
     }
   ],
   "name": "FUTURE ADA",

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,6 +43,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      488
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,23 +54,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "triangle",
-      "id": "3A1249E9-18D5-4267-A18A-007546A3AF26"
-    },
-    {
-      "class": "triangle",
-      "id": "3803F73E-1FB2-47DC-B834-56919D0C5284"
+      "class": "rectangle",
+      "id": "D0CDEA45-ACFB-4352-88E5-06C1F9685EC9"
     },
     {
       "class": "text",
       "id": "950D3DB6-F75C-4D21-8C11-E5CAB99FA4E4"
-    },
-    {
-      "class": "text",
-      "id": "5E2CEB56-368C-4E7D-9A05-5F6DCA7E7F3B"
     },
     {
       "class": "text",
@@ -69,9 +71,21 @@
     {
       "class": "group",
       "id": "1971176C-F7E3-42B9-BF0A-849CD17F48E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B7892E8-F6FF-4D5D-92AB-DEEED5E7CFCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "141D9B2E-5AFC-44C8-969E-4D2BA13150AC"
+    },
+    {
+      "class": "text",
+      "id": "5C010131-6403-41DA-AFDF-175ED8F743D0"
     }
   ],
-  "name": "Brent Schneider",
+  "name": "BRENT SCHNEIDER",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

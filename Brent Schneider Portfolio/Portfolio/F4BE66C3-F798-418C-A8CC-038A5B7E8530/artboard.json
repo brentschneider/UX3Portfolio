@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,6 +43,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      612,
+      78,
+      342,
+      910
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,10 +61,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "1E36CF34-3D47-416E-995B-68B27D535B09"
-    },
-    {
-      "class": "group",
       "id": "4DDB3189-9A47-426E-A534-472CEEDC6DC5"
     },
     {
@@ -61,9 +70,37 @@
     {
       "class": "text",
       "id": "6C888DDD-D5B6-4C8C-900D-A4CB37E274D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C78CF4E-45C7-40DB-B803-687DDDE8FE05"
+    },
+    {
+      "class": "text",
+      "id": "511D32FF-EB5A-4712-923F-D2C1C58542C2"
+    },
+    {
+      "class": "text",
+      "id": "D0998BAE-AEFF-4798-B7C1-15E04EDFEDDC"
+    },
+    {
+      "class": "text",
+      "id": "5853ED03-E38B-44E7-9929-81AC2E1E680C"
+    },
+    {
+      "class": "text",
+      "id": "D220F30A-B29C-4337-B7E0-B1F5A95D5495"
+    },
+    {
+      "class": "text",
+      "id": "344B5512-5CDF-4D9D-91FE-BA3B2714E6E6"
+    },
+    {
+      "class": "text",
+      "id": "6691AFFC-5EDC-4B42-AE48-12C99D9C0E89"
     }
   ],
-  "name": "My Process",
+  "name": "PROCESS",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

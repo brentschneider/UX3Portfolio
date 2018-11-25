@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "13EFF26F-8678-49F9-AFD3-5F3E1D629863",
     "height": 87,
-    "width": 303,
+    "width": 375,
     "x": 30,
     "y": 30
   },
@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "7A7D6750-02D9-4B6C-936B-2988C87ADD44",
       "overrideName": "9B4F594D-2232-4691-93BD-21728BB63FE1_stringValue",
-      "value": "Making the analog connection\nwith a virtual world\n"
+      "value": "Everything old is new again\n"
     }
   ],
   "resizingConstraint": 63,

@@ -9,26 +9,80 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSansLight-Italic",
-              "size": 18
+              "name": "OpenSans",
+              "size": 20
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           }
         },
-        "length": 268,
+        "length": 276,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 13,
+        "location": 276
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 85,
+        "location": 289
       }
     ],
-    "string": "Future Ada is a startup non-profit, focusing on securing space for women and non-binary individuals in the STEAM fields. \n\nI applied UX methods to develop, branding, an informed decision for site architecture and test multiple Calls to Action to drive users to donate."
+    "string": "Future Ada is a startup non-profit, focusing on securing space for women and non-binary individuals in the STEAM fields. \n\nI applied UX methods to develop, branding, build an informed decision for site architecture and test multiple Calls to Action to drive users to donate.\n\nMethods Used:\n• Create user personas\n• Card sorting research\n• Create user flow\n• Design wireframe"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +103,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D771FD22-F1B4-4D65-818D-AC0EC4EFDF0D",
-    "height": 239,
-    "width": 283,
-    "x": 50,
-    "y": 169
+    "height": 489,
+    "width": 375,
+    "x": 70,
+    "y": 145
   },
-  "glyphBounds": "{{-3, 5}, {269, 231}}",
+  "glyphBounds": "{{0, 7}, {364, 441}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +122,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
+  "sharedStyleID": "C165BB2B-0B32-4015-B382-49ED0B2B13D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,24 +132,25 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E73BA878-B47A-4D6A-80EB-065B919702F8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSansLight-Italic",
-            "size": 18
+            "name": "OpenSans",
+            "size": 20
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         }
       },
       "verticalAlignment": 0

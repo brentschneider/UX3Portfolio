@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "F6E50010-0BB3-445F-9151-AB3D88CBBAD2",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -38,6 +47,7 @@
     "base": 0,
     "do_objectID": "98DE76A5-43C9-4699-B615-161E01D44FFF",
     "guides": [
+      612
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,15 +58,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "7F0381B5-F221-4F2F-9C6D-CB7EBCD121F4"
-    },
-    {
-      "class": "group",
-      "id": "98B873C5-0A93-456B-8815-CEB403B36D02"
     },
     {
       "class": "text",
@@ -65,6 +71,14 @@
     {
       "class": "bitmap",
       "id": "AC31389F-C583-4DC7-A1D5-AEFC28EE8260"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD16709C-0A57-415A-903F-0841AA436BDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AEC6C55-898D-4FF2-9894-3603B6AEF7E0"
     }
   ],
   "name": "UX COMUNITY",

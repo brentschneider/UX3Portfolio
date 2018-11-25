@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "A4E5A979-67B7-44E6-96C2-FD8030A11298",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -59,20 +68,12 @@
       "id": "37ACE43A-F872-4C2F-AFA4-175F53B9853A"
     },
     {
-      "class": "group",
-      "id": "D78A6E46-317A-40E4-B57B-F4A1A7D7E13F"
-    },
-    {
-      "class": "text",
-      "id": "F5214BD1-9C91-47AB-9DEC-7EFAA2F170DC"
+      "class": "symbolInstance",
+      "id": "36A8CCF6-3C6D-4FED-A28F-62DEEAC8E9E1"
     },
     {
       "class": "bitmap",
-      "id": "50B1C6BA-FD5D-48ED-9472-EE3C6ABB8C6E"
-    },
-    {
-      "class": "polygon",
-      "id": "61156A7C-C05F-4B73-8C87-87F93D0414E9"
+      "id": "6EFA639F-D941-45D0-A1BD-BDAC15A22F4E"
     }
   ],
   "name": "3D CARDBOARD TWO",
