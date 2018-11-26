@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 44,
+        "length": 45,
         "location": 0
       }
     ],
-    "string": "Heuristic Evolution\nWireframe\nWeb Analytics\n"
+    "string": "Heuristic Evaluation\nWireframe\nWeb Analytics\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 612,
     "y": 539
   },
-  "glyphBounds": "{{0, 5}, {156, 75}}",
+  "glyphBounds": "{{0, 5}, {167, 75}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heuristic Evolution",
+  "name": "Heuristic Evaluation",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,9 +82,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

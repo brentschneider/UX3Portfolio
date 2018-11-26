@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 57,
+        "length": 149,
         "location": 0
       }
     ],
-    "string": "Ruby on rails prototype utilizing Bootstrap 3.5 framework"
+    "string": "I was responsible for designing and coding the UI. Producing all visual assets for the Ruby on Rails prototype utilizing the Bootstrap 3.5 framework."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B70DF63-EF60-4DD0-99C0-605C0ED04875",
-    "height": 76,
+    "height": 88,
     "width": 516,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {424, 47}}",
+  "glyphBounds": "{{1, 7}, {460, 81}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ruby on rails protot",
+  "name": "I was responsible fo",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,9 +85,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

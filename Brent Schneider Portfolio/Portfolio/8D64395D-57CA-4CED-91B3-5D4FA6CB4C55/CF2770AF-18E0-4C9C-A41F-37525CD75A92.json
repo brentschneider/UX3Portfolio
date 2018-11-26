@@ -33,6 +33,12 @@
   "name": "UI/ 1 page",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0DFA329-D2D9-410D-BD8C-BB76DC4E65FB",
+      "overrideName": "7DBFA392-6DF9-4CAB-A82B-2D000A105600_stringValue",
+      "value": "3/3"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +53,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DFFC811D-6FF3-4375-9048-FB5B7EB24FAD",
+  "symbolID": "AD68E546-2EDE-4608-A3AA-4CDA51032246",
   "verticalSpacing": 0
 }

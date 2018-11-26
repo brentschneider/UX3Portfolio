@@ -27,16 +27,16 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.2901960784313726,
-        "green": 0.2980392156862745,
-        "red": 0.2941176470588235
+        "blue": 0.9411764705882353,
+        "green": 0.3411764705882354,
+        "red": 0.8392156862745096
       },
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.9411764705882353,
-        "green": 0.3411764705882354,
-        "red": 0.8392156862745096
+        "blue": 0.2901960784313726,
+        "green": 0.2980392156862745,
+        "red": 0.2941176470588235
       }
     ],
     "gradients": [
@@ -10390,48 +10390,6 @@
     }
   ],
   "foreignTextStyles": [
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "50FC887F-84FE-4C61-9ACD-A3CCEA39FAAC",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "077D30D5-46B6-47A9-ADB4-42E0D4E609B7",
-        "name": "H3 Style",
-        "value": {
-          "_class": "style",
-          "endMarkerType": 0,
-          "miterLimit": 10,
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "SFProDisplay-Semibold",
-                  "size": 30
-                }
-              },
-              "paragraphStyle": {
-                "_class": "paragraphStyle"
-              }
-            },
-            "verticalAlignment": 0
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "6794AC5E-6E4C-4194-9D25-3ECAB65FDD91",
-      "sourceLibraryName": "Portfolio Library",
-      "symbolPrivate": false
-    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",

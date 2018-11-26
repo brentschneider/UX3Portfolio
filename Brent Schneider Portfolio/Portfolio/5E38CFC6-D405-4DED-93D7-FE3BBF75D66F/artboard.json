@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -65,16 +65,16 @@
       "id": "372D6065-94F8-4046-A129-E00B4D42138C"
     },
     {
-      "class": "symbolInstance",
-      "id": "A02AFFBC-74C5-4BE7-B268-243236E7B746"
-    },
-    {
       "class": "rectangle",
       "id": "8ADB6B96-5783-4872-95EA-44EF85A35853"
     },
     {
       "class": "symbolInstance",
       "id": "569F21E5-6A62-4F70-83E6-C7EF8BE3D345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55B61D66-D7F6-4467-A377-4198B2234D26"
     }
   ],
   "name": "COPYRIGHT",

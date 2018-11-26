@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "608B28F9-F018-448E-8F4D-3F819F55C838",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20F2758E-394E-440A-8109-F07DC8DA2425",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11A1268B-AFDF-46EB-B93B-78F738C321BF",
+    "height": 54,
+    "width": 303,
+    "x": 236,
+    "y": 562
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C9E2E1F9-5CA0-47F6-B5A5-303C8248716B"
+    },
+    {
+      "class": "shapePath",
+      "id": "868183D0-6BD3-41C1-AB99-3D2B26CE9E0A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D273CAC8-273C-4254-9CF3-492B513D54A1"
+    },
+    {
+      "class": "group",
+      "id": "6F125046-3E58-4190-BDBD-22B83CE924FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0F854DE-9FFC-4716-B418-BD02050784DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "58240FDC-EBC0-4DFB-BDC7-05816A1EEDC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69242738-109B-4F2B-B03D-27721F9C809A"
+    },
+    {
+      "class": "shapePath",
+      "id": "981C9F5E-BC91-4836-9656-C96E6BE83B0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B45D65C5-3CFF-4362-A944-20F5BB1B9EE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "5549EEA0-4E8C-4566-AD8F-6314AD51CEBB"
+    }
+  ],
+  "name": "Group 22 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A905DE04-C5E4-4774-A138-D14127439BF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

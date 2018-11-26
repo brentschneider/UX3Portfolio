@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 283,
+        "length": 396,
         "location": 0
       }
     ],
-    "string": "The branding needed to bridge the gap from ephemeral childhood objects to modern AR applications with smartphones as a delivery model.\n\nThrough research, I drew upon View-Master Model G, introduced in 1962 and eventually came to be recognized by 65 percent of the world’s population."
+    "string": "The branding needed to bridge the gap from ephemeral childhood objects to modern AR applications with smartphones as a delivery model.\n\nThrough research, I drew upon View-Master Model G, introduced in 1962 and eventually came to be recognized by 65 percent of the world’s population.\n\nOnce the “mark” was designed, I applied it to the cardboard wrapping, website and bootcamp session information."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "B8DED60E-79E0-451E-8F02-E4CF0AD4A522",
     "height": 481,
-    "width": 335,
+    "width": 375,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {332, 321}}",
+  "glyphBounds": "{{0, 7}, {374, 381}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

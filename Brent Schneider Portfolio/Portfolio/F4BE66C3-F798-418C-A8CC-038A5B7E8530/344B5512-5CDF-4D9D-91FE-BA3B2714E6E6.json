@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,14 +24,13 @@
             "_class": "paragraphStyle",
             "maximumLineHeight": 30,
             "minimumLineHeight": 30
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 15,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "UX Methods used"
+    "string": "I utilize a broad toolkit of UX Methods "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 174,
-    "x": 78,
+    "width": 384,
+    "x": 70,
     "y": 491
   },
-  "glyphBounds": "{{1, 7}, {172, 17}}",
+  "glyphBounds": "{{1, 7}, {377, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,14 +63,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "UX Methods used",
+  "name": "I utilize a broad to",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "C165BB2B-0B32-4015-B382-49ED0B2B13D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D77229CC-AA34-44BB-A968-BD0C725D6132",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -81,9 +82,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -96,8 +97,7 @@
           "_class": "paragraphStyle",
           "maximumLineHeight": 30,
           "minimumLineHeight": 30
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },

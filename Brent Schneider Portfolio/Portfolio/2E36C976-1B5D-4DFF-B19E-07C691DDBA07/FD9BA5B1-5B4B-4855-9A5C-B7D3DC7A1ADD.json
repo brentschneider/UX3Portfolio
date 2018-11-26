@@ -9,35 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 254,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -53,7 +27,7 @@
           }
         },
         "length": 13,
-        "location": 254
+        "location": 0
       },
       {
         "_class": "stringAttribute",
@@ -61,9 +35,61 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 251,
+        "location": 13
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 13,
+        "location": 264
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -79,10 +105,10 @@
           }
         },
         "length": 98,
-        "location": 267
+        "location": 277
       }
     ],
-    "string": "Brooklyn Deli & Lounge redesign\nShort description of Project: Redesigning the ultimate deli website highlighting Brooklyn’s relaxing atmosphere, delicious food, and unique location as part of the Montvale Block located in the heart of downtown Spokane.\n\nMethods Used:\n• Stakeholder requirements gathering\n• User personas\n• In-context interviews\n• UI HTML/CSS design"
+    "string": "The Challenge\nBrooklyn Deli & Lounge needed a full website redesign to create the ultimate restaurant website highlighting Brooklyn’s relaxing atmosphere, delicious food, and unique location as part of the Montvale Block located in the heart of downtown Spokane.\n\nMethods Used:\n• Stakeholder Requirements Gathering\n• User Personas\n• In-context Interviews\n• UI HTML/CSS Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -108,7 +134,7 @@
     "x": 70,
     "y": 154
   },
-  "glyphBounds": "{{0, 7}, {369, 411}}",
+  "glyphBounds": "{{0, 7}, {363, 411}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -117,7 +143,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Brooklyn Deli & Loun",
+  "name": "The Challenge Brookl",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -136,14 +162,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
+            "name": "OpenSans-Bold",
             "size": 20
           }
         },

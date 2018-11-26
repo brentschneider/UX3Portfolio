@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 46,
-    "width": 263,
-    "x": 758,
+    "width": 300,
+    "x": 734,
     "y": 697
   },
   "hasClippingMask": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "4AB48D35-5A02-4223-920C-E7072ACDDA33",
       "overrideName": "C671310E-63DA-41C2-A655-ED045B1EC31D/C30681AB-577D-4ABC-8168-F126453B21EE_stringValue",
-      "value": "VIEW SPOKANE UX"
+      "value": "spokaneux.com"
     }
   ],
   "resizingConstraint": 63,

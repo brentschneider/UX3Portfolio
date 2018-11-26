@@ -24,7 +24,7 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 52,
+        "length": 53,
         "location": 0
       },
       {
@@ -49,7 +49,7 @@
           }
         },
         "length": 1,
-        "location": 52
+        "location": 53
       },
       {
         "_class": "stringAttribute",
@@ -73,10 +73,10 @@
           }
         },
         "length": 63,
-        "location": 53
+        "location": 54
       }
     ],
-    "string": "We also asked them to describe our current website.\n \nSome people wrote “wormhole”, “ABOMINABLE!”, and “a hot mess”."
+    "string": "We also asked users to describe our current website.\n \nSome people wrote “wormhole”, “ABOMINABLE!”, and “a hot mess”."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -97,7 +97,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "06252337-28AA-46A0-8A58-D30E42606704",
-    "height": 189,
+    "height": 186,
     "width": 473,
     "x": 686,
     "y": 103
@@ -111,7 +111,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "We also asked them t",
+  "name": "We also asked users",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -149,5 +149,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

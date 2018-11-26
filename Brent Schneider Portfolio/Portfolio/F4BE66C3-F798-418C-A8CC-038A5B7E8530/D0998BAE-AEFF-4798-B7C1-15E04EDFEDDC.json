@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 93,
+        "length": 89,
         "location": 0
       }
     ],
-    "string": "ethnographic research\nCreating journey maps\nInformation Architecture Sitemaps\nSurvey Creation"
+    "string": "Ethnographic Research\nUser Journey Maps\nInformation Architecture Sitemaps\nSurvey Creation"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,7 +51,7 @@
     "do_objectID": "A6628573-066D-47BC-92D6-D3508C8897F9",
     "height": 135,
     "width": 213,
-    "x": 342,
+    "x": 341,
     "y": 539
   },
   "glyphBounds": "{{0, 5}, {205, 129}}",
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ethnographic researc",
+  "name": "Ethnographic Researc",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,9 +82,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

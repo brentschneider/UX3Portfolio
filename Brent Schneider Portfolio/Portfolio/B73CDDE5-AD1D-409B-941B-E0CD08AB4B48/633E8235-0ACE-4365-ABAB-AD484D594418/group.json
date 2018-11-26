@@ -19,8 +19,8 @@
     "do_objectID": "BBAC1190-02E4-43A7-98DF-09200CE2D135",
     "height": 117,
     "width": 424,
-    "x": 92,
-    "y": 93
+    "x": 94,
+    "y": 94
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",

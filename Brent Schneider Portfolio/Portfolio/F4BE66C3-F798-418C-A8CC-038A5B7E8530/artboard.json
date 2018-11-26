@@ -44,7 +44,7 @@
     "base": 0,
     "guides": [
       612,
-      78,
+      70,
       342,
       910
     ]
@@ -66,10 +66,6 @@
     {
       "class": "symbolInstance",
       "id": "D35C1923-60ED-42DD-9399-DA5C05C66DC0"
-    },
-    {
-      "class": "text",
-      "id": "6C888DDD-D5B6-4C8C-900D-A4CB37E274D0"
     },
     {
       "class": "symbolInstance",
@@ -94,6 +90,10 @@
     {
       "class": "text",
       "id": "344B5512-5CDF-4D9D-91FE-BA3B2714E6E6"
+    },
+    {
+      "class": "text",
+      "id": "8A3434F2-2134-437D-8A6E-6F0C40CD9B8B"
     },
     {
       "class": "text",

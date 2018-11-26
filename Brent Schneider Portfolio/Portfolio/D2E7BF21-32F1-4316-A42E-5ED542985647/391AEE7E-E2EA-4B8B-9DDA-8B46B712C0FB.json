@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -35,9 +35,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -52,7 +52,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 325,
+        "length": 321,
         "location": 13
       },
       {
@@ -61,9 +61,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -79,7 +79,7 @@
           }
         },
         "length": 13,
-        "location": 338
+        "location": 334
       },
       {
         "_class": "stringAttribute",
@@ -87,9 +87,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -105,10 +105,10 @@
           }
         },
         "length": 60,
-        "location": 351
+        "location": 347
       }
     ],
-    "string": "The Challenge\nVirtual Reality is changing education.\n\nOne benefit of augmented reality in education is that it changes the way that students interact with their world and in turn; the way they learn their subject content. \n\nThe first barrier is training teachers in the effective use of AR/VR to overcome the obstacle of implementation.\n\nMethods Used:\n• User personas\n• Paper Prototyping\n• In-context interviews"
+    "string": "The Challenge\nVirtual Reality is changing education.\nThe first barrier is training teachers in the effective use of AR/VR to overcome the obstacle of implementation.\n\nOne benefit of augmented reality in education is that it changes the way that students interact with their world and in turn; the way they learn the subject matter. \n\nMethods Used:\n• User personas\n• Paper Prototyping\n• In-context interviews"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -134,7 +134,7 @@
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {360, 497}}",
+  "glyphBounds": "{{0, 7}, {360, 467}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -162,9 +162,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.2901960784313726,
+          "green": 0.2980392156862745,
+          "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
