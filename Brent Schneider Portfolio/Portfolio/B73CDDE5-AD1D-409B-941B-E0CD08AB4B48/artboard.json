@@ -61,8 +61,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "6D6F862E-25C1-41D6-8449-18881735C73D"
+      "class": "symbolInstance",
+      "id": "D34CCF95-70E4-4993-9A9D-A37FE252B4D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7B7F2D2-822D-467B-88CE-169BD7E21E54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "520AF946-8E19-4A36-A35F-9A3192A3CD24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B44960F8-3C38-483E-AEFF-36F1C9732A27"
     },
     {
       "class": "text",
@@ -77,12 +89,12 @@
       "id": "985C9FD2-32D0-449C-9304-64B4620416AD"
     },
     {
-      "class": "symbolInstance",
-      "id": "7352A2B0-EC52-4BEB-9481-B3D0FAC46DFB"
-    },
-    {
       "class": "group",
       "id": "608B28F9-F018-448E-8F4D-3F819F55C838"
+    },
+    {
+      "class": "text",
+      "id": "06871C40-B1AB-4B37-BF6C-796A3AA771DD"
     }
   ],
   "name": "THANK YOU",

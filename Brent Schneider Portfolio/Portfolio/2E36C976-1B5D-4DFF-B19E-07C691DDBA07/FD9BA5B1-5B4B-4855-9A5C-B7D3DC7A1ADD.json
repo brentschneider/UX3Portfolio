@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -69,7 +69,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -78,7 +78,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 13,
+        "length": 5,
         "location": 264
       },
       {
@@ -95,7 +95,59 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 33,
+        "location": 269
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 15,
+        "location": 302
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -105,10 +157,10 @@
           }
         },
         "length": 98,
-        "location": 277
+        "location": 317
       }
     ],
-    "string": "The Challenge\nBrooklyn Deli & Lounge needed a full website redesign to create the ultimate restaurant website highlighting Brooklyn’s relaxing atmosphere, delicious food, and unique location as part of the Montvale Block located in the heart of downtown Spokane.\n\nMethods Used:\n• Stakeholder Requirements Gathering\n• User Personas\n• In-context Interviews\n• UI HTML/CSS Design"
+    "string": "The Challenge\nBrooklyn Deli & Lounge needed a full website redesign to create the ultimate restaurant website highlighting Brooklyn’s relaxing atmosphere, delicious food, and unique location as part of the Montvale Block located in the heart of downtown Spokane.\n\nTeam: Tyreil Poosri, Brent Schneider\n\nMethods I used:\n• Stakeholder Requirements Gathering\n• User Personas\n• In-context Interviews\n• UI HTML/CSS Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -129,12 +181,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "81D9C1E4-0FF8-43C5-B7F4-79A72C80422D",
-    "height": 434,
-    "width": 375,
+    "height": 517,
+    "width": 463,
     "x": 70,
-    "y": 154
+    "y": 150
   },
-  "glyphBounds": "{{0, 7}, {363, 411}}",
+  "glyphBounds": "{{0, 8}, {455, 409}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -148,7 +200,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
+  "sharedStyleID": "C165BB2B-0B32-4015-B382-49ED0B2B13D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -170,7 +222,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

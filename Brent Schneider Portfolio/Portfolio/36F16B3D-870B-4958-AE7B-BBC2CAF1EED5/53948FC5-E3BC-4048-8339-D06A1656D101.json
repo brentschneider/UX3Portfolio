@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -52,7 +52,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 157,
+        "length": 469,
         "location": 13
       },
       {
@@ -69,7 +69,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -78,59 +78,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 25,
-        "location": 170
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 287,
-        "location": 195
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 13,
+        "length": 5,
         "location": 482
       },
       {
@@ -147,7 +95,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -156,11 +104,63 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 85,
-        "location": 495
+        "length": 45,
+        "location": 487
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 15,
+        "location": 532
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 34,
+        "location": 547
       }
     ],
-    "string": "The Challenge Spokane UX is a Meetup group that connects people, skills and ideas in the UX industry. The group had been abanded for over a year and lost its momentum. \n\nImproving a community by:\n• Incorporated a brand identity, to distinguish us from other meetups and groups.\n• Added interesting members to the organizers' group. This brings new ideas and distributes the workload.\n• Incorporated Slack to foster a circle of people talking, rather than rows of people listening.\n\nMethods Used:\n• User Survey\n• Paper Prototyping\n• In-context interviews\n• UI HTML/CSS development\n"
+    "string": "The Challenge Spokane UX is a Meetup group that connects people, skills and ideas in the UX industry. The group had been abanded for over a year and lost its momentum. \n\nImproving a community by:\n• Incorporated a brand identity, to distinguish us from other meetups and groups.\n• Added interesting members to the organizers' group. This brings new ideas and distributes the workload.\n• Incorporated Slack to foster a circle of people talking, rather than rows of people listening.\n\nTeam: Tyreil Poosri, Renae Wood, Brent Schneider\n\nMethods I used:\n• User Survey\n• Paper Prototyping"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -182,11 +182,11 @@
     "constrainProportions": false,
     "do_objectID": "93A2F948-7EEA-4034-949B-B28A97A02E45",
     "height": 549,
-    "width": 520,
+    "width": 524,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {508, 531}}",
+  "glyphBounds": "{{0, 8}, {523, 529}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -222,7 +222,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

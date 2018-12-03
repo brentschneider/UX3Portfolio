@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Bold",
-              "size": 26
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -52,7 +52,7 @@
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 5}, {411, 57}}",
+  "glyphBounds": "{{0, 3}, {374, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Bold",
-            "size": 26
+            "size": 18
           }
         },
         "paragraphStyle": {

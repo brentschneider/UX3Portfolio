@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 20
+              "name": "OpenSans-Semibold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Applying UX methods from A to Z"
+    "string": "Applying UX Methods from A to Z"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "7EA97E9C-C3C6-468D-98A3-9F259197102A",
     "height": 30,
-    "width": 330,
+    "width": 287,
     "x": 70,
     "y": 142
   },
-  "glyphBounds": "{{0, 7}, {330, 21}}",
+  "glyphBounds": "{{0, 8}, {287, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Applying UX methods",
+  "name": "Applying UX Methods",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0D89B175-2C21-4862-AC46-66E44362666D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 20
+            "name": "OpenSans-Semibold",
+            "size": 18
           }
         },
         "paragraphStyle": {

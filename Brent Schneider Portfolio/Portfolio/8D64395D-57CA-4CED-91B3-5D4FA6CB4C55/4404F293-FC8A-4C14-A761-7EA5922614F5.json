@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -56,7 +56,7 @@
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{1, 7}, {460, 81}}",
+  "glyphBounds": "{{0, 8}, {505, 79}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "410FE9E2-9F9F-404B-B12C-E4D0CCA45297",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

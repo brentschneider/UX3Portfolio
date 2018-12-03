@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -26,112 +26,8 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 136,
+        "length": 640,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 49,
-        "location": 136
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 233,
-        "location": 185
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 22,
-        "location": 418
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2901960784313726,
-            "green": 0.2980392156862745,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 20
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
-        },
-        "length": 200,
-        "location": 440
       }
     ],
     "string": "Observations informed some impactful changes that improved the experience. We also recorded the screens and mouse clicks for analysis.\n\n• An issue arose with the navigation interaction. When users hovered over navigation sections, if they accidentally moused over a different section the content would change, but the navigation label wouldn’t. We addressed this by switching to a click interaction in the main menu.\n\n• Heuristic violations noted users saw areas in the program explorer that looked as if they were buttons but not clickable. We addressed this by turning them into buttons that linked to each prospective area when clicked.\n"
@@ -160,7 +56,7 @@
     "x": 70,
     "y": 196
   },
-  "glyphBounds": "{{0, 7}, {528, 467}}",
+  "glyphBounds": "{{0, 8}, {527, 409}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -184,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4F6A07EB-81F9-4EAC-840A-D05425DF0A67",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -197,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -69,7 +69,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -78,7 +78,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 13,
+        "length": 5,
         "location": 310
       },
       {
@@ -95,7 +95,59 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 32,
+        "location": 315
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 15,
+        "location": 347
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -105,10 +157,10 @@
           }
         },
         "length": 124,
-        "location": 323
+        "location": 362
       }
     ],
-    "string": "The Challenge\nFuture Ada is a startup non-profit, trying to establish a foothold on securing space for women and non-binary individuals in the STEAM fields. \n\nI applied UX methods to develop, branding, build an informed decision for site navigation and test multiple Calls to Action to drive users to donate.\n\nMethods Used:\n• Create User Personas\n• Card Sorting Research\n• Create User Flows\n• Wireframe\n• high-fidelity Prototype\n• User Observation"
+    "string": "The Challenge\nFuture Ada is a startup non-profit, trying to establish a foothold on securing space for women and non-binary individuals in the STEAM fields. \n\nI applied UX methods to develop, branding, build an informed decision for site navigation and test multiple Calls to Action to drive users to donate.\n\nTeam: Rebecca Long, Brent Schneider \nMethods I used:\n• Create User Personas\n• Card Sorting Research\n• Create User Flows\n• Wireframe\n• High-fidelity Prototype\n• User Observation"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -130,11 +182,11 @@
     "constrainProportions": false,
     "do_objectID": "D771FD22-F1B4-4D65-818D-AC0EC4EFDF0D",
     "height": 571,
-    "width": 375,
+    "width": 520,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {374, 527}}",
+  "glyphBounds": "{{0, 8}, {516, 525}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -170,7 +222,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

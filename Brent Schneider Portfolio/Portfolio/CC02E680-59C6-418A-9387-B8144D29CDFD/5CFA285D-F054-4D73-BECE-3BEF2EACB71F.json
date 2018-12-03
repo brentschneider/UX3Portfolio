@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CFA285D-F054-4D73-BECE-3BEF2EACB71F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5414801C-BC54-43A7-A321-37FA9317A9FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "180E4317-FF51-4F4C-83B6-8B5ED9095534",
+    "height": 87,
+    "width": 375,
+    "x": 30,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Intro",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FBB50FC-AA4C-4EED-8569-10DCDE666A50",
+      "overrideName": "51B97EF0-374D-4654-905A-52701E086A86_stringValue",
+      "value": "Future Ada"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2CB9267-44CB-44ED-847B-3FE3E9C25EF4",
+      "overrideName": "9B4F594D-2232-4691-93BD-21728BB63FE1_stringValue",
+      "value": "UX Research, Brand & Information Archicture"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C245D083-1365-4F82-976B-9CCABE01004C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BBA0C7B5-DA48-4B06-AE46-DBC4BA5F682A",
+  "verticalSpacing": 0
+}

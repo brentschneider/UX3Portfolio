@@ -47,7 +47,6 @@
     "base": 0,
     "do_objectID": "01358285-34A5-4B24-8C6F-60C65938D5DA",
     "guides": [
-      612
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -67,6 +66,10 @@
     {
       "class": "text",
       "id": "94AEED6B-AFF3-4150-8B9D-4FC65E2DDBC5"
+    },
+    {
+      "class": "text",
+      "id": "F9389FF2-6C83-42C7-84EC-A0002B0D237B"
     },
     {
       "class": "symbolInstance",

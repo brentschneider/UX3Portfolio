@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "UX PORTFOLIO"
+    "string": "BRENT SCHNEIDER"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 31,
-    "width": 184,
+    "width": 232,
     "x": 0,
     "y": 31
   },
-  "glyphBounds": "{{1, 6}, {182, 20}}",
+  "glyphBounds": "{{1, 6}, {231, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "UX PORTFOLIO",
+  "name": "BRENT SCHNEIDER",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

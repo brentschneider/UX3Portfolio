@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -54,9 +54,9 @@
     "height": 459,
     "width": 467,
     "x": 70,
-    "y": 224
+    "y": 200
   },
-  "glyphBounds": "{{0, 7}, {462, 381}}",
+  "glyphBounds": "{{0, 8}, {440, 379}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

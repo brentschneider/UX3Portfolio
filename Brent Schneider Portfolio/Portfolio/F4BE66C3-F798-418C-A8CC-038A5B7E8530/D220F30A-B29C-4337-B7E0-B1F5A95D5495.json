@@ -17,11 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSansLight-Italic",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 35,
+            "minimumLineHeight": 35
           }
         },
         "length": 82,
@@ -49,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0A9B469F-3ABA-489E-A4CF-D6D624ED5536",
-    "height": 189,
+    "height": 245,
     "width": 213,
     "x": 910,
-    "y": 539
+    "y": 512
   },
-  "glyphBounds": "{{-2, 5}, {173, 152}}",
+  "glyphBounds": "{{-1, 10}, {155, 190}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,6 +70,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C61C1D00-4EE0-4C13-98DD-ED1044339C2A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,11 +92,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSansLight-Italic",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 35,
+          "minimumLineHeight": 35
         }
       },
       "verticalAlignment": 0

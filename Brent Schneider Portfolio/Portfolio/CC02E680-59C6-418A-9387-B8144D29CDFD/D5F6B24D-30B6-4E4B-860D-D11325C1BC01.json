@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5F6B24D-30B6-4E4B-860D-D11325C1BC01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83295C7C-9B30-48B5-9FE7-7DBA45426E7F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C3282FD-A0E0-4313-8F70-F9DB70801C4F",
+    "height": 46,
+    "width": 251,
+    "x": 100,
+    "y": 616
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Primary Solid Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "071A8A80-FEE2-41B5-836B-8F7EA890A810",
+      "overrideName": "4FA0846F-146F-449A-A728-4B7743606BE0/9AAD187C-FE33-4FD2-BC18-8BE81AB9372E_stringValue",
+      "value": "Full Case Study"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B74E341-664E-4EE6-91C2-A13B61755205",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DAD4208E-E822-496B-B856-3DBDB2DA5088",
+  "verticalSpacing": 0
+}

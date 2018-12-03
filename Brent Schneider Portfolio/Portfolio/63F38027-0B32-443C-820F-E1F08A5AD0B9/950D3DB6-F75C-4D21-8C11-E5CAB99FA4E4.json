@@ -16,14 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-LightItalic",
-              "size": 44
+              "name": "SFProDisplay-ThinItalic",
+              "size": 45
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 51,
-            "minimumLineHeight": 51
+            "_class": "paragraphStyle"
           }
         },
         "length": 88,
@@ -52,9 +50,9 @@
     "height": 206,
     "width": 439,
     "x": 705,
-    "y": 486
+    "y": 497
   },
-  "glyphBounds": "{{-2, 9}, {436, 194}}",
+  "glyphBounds": "{{-2, 11}, {433, 203}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,14 +87,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-LightItalic",
-            "size": 44
+            "name": "SFProDisplay-ThinItalic",
+            "size": 45
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "maximumLineHeight": 51,
-          "minimumLineHeight": 51
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0

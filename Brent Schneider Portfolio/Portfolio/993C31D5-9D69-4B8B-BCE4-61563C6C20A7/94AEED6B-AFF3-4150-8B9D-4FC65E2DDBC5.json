@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -69,7 +69,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -78,7 +78,7 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 13,
+        "length": 5,
         "location": 261
       },
       {
@@ -95,7 +95,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -104,11 +104,63 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 127,
-        "location": 274
+        "length": 32,
+        "location": 266
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 15,
+        "location": 298
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2901960784313726,
+            "green": 0.2980392156862745,
+            "red": 0.2941176470588235
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 64,
+        "location": 313
       }
     ],
-    "string": "The Challenge\nTo build a better ewu.edu for students, employees and the entire EWU community. \n\nAdministering discovery and planning sessions with university stakeholders, develop goals mapping content to refine information architecture and design wireframes.\n\nMethods Used:\n• User Personas\n• User Surveys\n• Paper Prototyping\n• Wireframes\n• User Observations\n• Heuristic Evaluation\n• Usability Testing"
+    "string": "The Challenge\nTo build a better ewu.edu for students, employees and the entire EWU community. \n\nAdministering discovery and planning sessions with university stakeholders, develop goals mapping content to refine information architecture and design wireframes.\n\nTeam: Scott Eubanks, Maggie Doherty\n\nMethods I used:\n• User Personas\n• User Surveys\n• Paper Prototyping\n• Wireframes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -129,12 +181,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B21A1C0B-7AAB-46AE-B732-D421FF3089EC",
-    "height": 558,
+    "height": 579,
     "width": 409,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{0, 7}, {401, 531}}",
+  "glyphBounds": "{{0, 8}, {390, 465}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -170,7 +222,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {

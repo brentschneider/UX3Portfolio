@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 20
+              "name": "OpenSans-Semibold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 384,
+    "width": 333,
     "x": 70,
-    "y": 491
+    "y": 471
   },
-  "glyphBounds": "{{1, 7}, {377, 17}}",
+  "glyphBounds": "{{1, 8}, {326, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,8 +89,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 20
+            "name": "OpenSans-Semibold",
+            "size": 18
           }
         },
         "paragraphStyle": {

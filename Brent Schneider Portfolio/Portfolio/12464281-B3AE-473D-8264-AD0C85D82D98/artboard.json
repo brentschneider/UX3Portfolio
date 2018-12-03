@@ -43,7 +43,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      612
+      612,
+      1544
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -66,23 +67,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "5D983A56-806B-4AC7-8ED8-30A704A6998E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EF8C14E9-6368-40A1-B576-CBA4DF5994A2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "07E379AA-9802-4505-A5B3-4558F2E13BC5"
-    },
-    {
-      "class": "bitmap",
-      "id": "5324E17F-A8A9-4FDC-A61F-5203B475B2CE"
-    },
-    {
-      "class": "symbolInstance",
       "id": "5044EC74-4036-4576-878C-110A2F5A5B6A"
+    },
+    {
+      "class": "group",
+      "id": "0297E42D-9816-46C6-BC1C-EBD916A093EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "325E6759-A80C-45A7-93B5-3C112441F274"
     }
   ],
   "name": "FUTURE ADA",

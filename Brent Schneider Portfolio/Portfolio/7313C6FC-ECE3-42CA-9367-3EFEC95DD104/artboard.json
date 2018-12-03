@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0B2B79E1-ED57-46F2-B522-B449185DFCDC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7313C6FC-ECE3-42CA-9367-3EFEC95DD104",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D259A855-6DC3-4A3E-AD67-1293730B76E8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "710CC44C-F509-4785-97CE-5DD5861A978D",
+    "height": 792,
+    "width": 1224,
+    "x": 2037,
+    "y": 841
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CAE89E61-1B45-49C2-84EC-04B443AD70D4",
+    "guides": [
+      612
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1678A48C-3E7F-4348-ACBE-E8AC93C6A48B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E19079DB-4F48-496D-B65F-02BB5568761B"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "8662124B-487E-4567-B184-866351603339"
+    },
+    {
+      "class": "text",
+      "id": "50E37DCC-ED71-4E8F-9FA0-38A9B10C7F8A"
+    },
+    {
+      "class": "bitmap",
+      "id": "7F749071-C94E-4859-870A-317DB859EC1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B63E94DC-071D-484B-8F5D-B011F3047CBE"
+    }
+  ],
+  "name": "FUTURE ADA Screens Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Tabloid",
+    "offersLandscapeVariant": 0,
+    "width": 1224
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A02AB64-9261-4EE7-B40B-B505B303F09A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FAC88609-AE41-4C5C-A926-A7A4A177815F",
+    "guides": [
+    ]
+  }
+}

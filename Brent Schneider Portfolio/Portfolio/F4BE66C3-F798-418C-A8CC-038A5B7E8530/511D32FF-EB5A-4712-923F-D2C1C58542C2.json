@@ -17,11 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSansLight-Italic",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 35,
+            "minimumLineHeight": 35
           }
         },
         "length": 85,
@@ -47,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 135,
+    "height": 175,
     "width": 213,
     "x": 70,
-    "y": 539
+    "y": 512
   },
-  "glyphBounds": "{{0, 5}, {180, 129}}",
+  "glyphBounds": "{{0, 10}, {162, 159}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +68,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E31085CF-44A7-4E49-998D-4EF39340623D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "946E9C31-62A8-4CB9-96F2-DA43B99DC833",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -86,11 +90,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSansLight-Italic",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 35,
+          "minimumLineHeight": 35
         }
       },
       "verticalAlignment": 0

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37D8D40A-7127-4405-AB66-8693E2368F65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE01A708-A69E-4A38-9B2F-9CC79BCE81AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8856527-EADC-44D3-A23F-5D0835AD2F61",
+    "height": 46,
+    "width": 251,
+    "x": 891,
+    "y": 616
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Primary Solid Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCE24C93-7B37-40D2-B8D7-B567E3BF2C6E",
+      "overrideName": "C671310E-63DA-41C2-A655-ED045B1EC31D/C30681AB-577D-4ABC-8168-F126453B21EE_stringValue",
+      "value": "View React Prototype"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF9D775F-7E2C-424F-BA29-CB83A78FF84E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "984BA0A3-0988-46C6-B91B-F6D5A56D36C8",
+  "verticalSpacing": 0
+}

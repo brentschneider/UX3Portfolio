@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E938C217-EF64-4EB9-999F-305D5CCE696E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC02E680-59C6-418A-9387-B8144D29CDFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C9BFB54-254E-4FE2-8145-8311F9C13470",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B216735-7E88-40F2-A422-1DB0058D32A8",
+    "height": 792,
+    "width": 1224,
+    "x": 567,
+    "y": 841
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D8CDF87-ADCD-4D93-B9EA-3AB487FA72E4",
+    "guides": [
+      612,
+      1154,
+      72
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5CFA285D-F054-4D73-BECE-3BEF2EACB71F"
+    },
+    {
+      "class": "text",
+      "id": "80E5F480-ECC4-4691-9C85-591290C28237"
+    },
+    {
+      "class": "text",
+      "id": "05DE823B-02B9-44B0-97DC-38E7457CA471"
+    },
+    {
+      "class": "text",
+      "id": "1AE04AF1-5DE7-4CB9-86AC-C90254AE231C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D726129F-B4B0-4595-A44F-1A8E2FF4E104"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37D8D40A-7127-4405-AB66-8693E2368F65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD86D77E-62FD-4F67-A838-24393CE7DEBA"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "B8ABF680-9245-45D8-A43E-9CF645B82C51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5F6B24D-30B6-4E4B-860D-D11325C1BC01"
+    },
+    {
+      "class": "bitmap",
+      "id": "30C74E9E-F91C-4A48-9FB7-0723C28374A2"
+    },
+    {
+      "class": "text",
+      "id": "67B572FF-D9BB-4575-A3E6-871FFD3AF325"
+    },
+    {
+      "class": "text",
+      "id": "5BE23958-7A00-4418-9C84-48152A4938CF"
+    },
+    {
+      "class": "text",
+      "id": "F526580E-1DB7-4EA9-B410-91DD47EBAD15"
+    },
+    {
+      "class": "bitmap",
+      "id": "B45D3B98-7CEC-4B81-891C-37E15362F3FA"
+    },
+    {
+      "class": "bitmap",
+      "id": "92E56B2E-7C8B-45A6-8E79-B477D15F090B"
+    }
+  ],
+  "name": "FUTURE ADA Screens",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Tabloid",
+    "offersLandscapeVariant": 0,
+    "width": 1224
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCCCCA41-B0D5-4A22-BCF4-FF92DFD0C723",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9E580B4-D6E7-4E31-B831-DA476CE4EA48",
+    "guides": [
+    ]
+  }
+}

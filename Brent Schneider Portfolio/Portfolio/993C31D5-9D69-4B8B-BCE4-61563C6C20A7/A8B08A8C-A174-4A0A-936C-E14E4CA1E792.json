@@ -18,14 +18,14 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 455,
-    "width": 688,
-    "x": 517,
+    "width": 679.9489361702127,
+    "x": 537.0510638297873,
     "y": 168
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/4d55dba0435bf1c9290ffb63b165566ed7056ef4.png",
+    "_ref": "images/83a639e256530abbad8195fc70a09bec4c5e8c1e.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,

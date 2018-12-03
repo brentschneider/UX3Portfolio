@@ -9,7 +9,7 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2901960784313726,
+            "blue": 0.2901960784313725,
             "green": 0.2980392156862745,
             "red": 0.2941176470588235
           },
@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Bold",
-              "size": 26
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 62,
-    "width": 311,
+    "height": 23,
+    "width": 418,
     "x": 70,
     "y": 150
   },
-  "glyphBounds": "{{1, 5}, {309, 21}}",
+  "glyphBounds": "{{1, 3}, {214, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,7 +80,7 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2901960784313726,
+          "blue": 0.2901960784313725,
           "green": 0.2980392156862745,
           "red": 0.2941176470588235
         },
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Bold",
-            "size": 26
+            "size": 18
           }
         },
         "paragraphStyle": {
@@ -99,5 +99,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

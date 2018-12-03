@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.9411764705882353,
+            "green": 0.3411764705882354,
+            "red": 0.8392156862745096
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -19,13 +19,44 @@
               "name": "SFProDisplay-Semibold",
               "size": 43
             }
+          },
+          "kerning": 2.900000095367432,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "paragraphSpacing": 0.8999999761581421
           }
         },
-        "length": 15,
+        "length": 13,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9411764705882353,
+            "green": 0.3411764705882354,
+            "red": 0.8392156862745096
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProDisplay-Semibold",
+              "size": 43
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "paragraphSpacing": 0.8999999761581421
+          }
+        },
+        "length": 1,
+        "location": 13
       }
     ],
-    "string": "BRENT SCHNEIDER"
+    "string": "PORTFOLIO 2018"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,7 +80,7 @@
     "x": 110,
     "y": 360
   },
-  "glyphBounds": "{{2, 10}, {375, 32}}",
+  "glyphBounds": "{{2, 10}, {374, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -58,7 +89,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "BRENT SCHNEIDER",
+  "name": "PORTFOLIO 2018",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -77,9 +108,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.9411764705882353,
+          "green": 0.3411764705882354,
+          "red": 0.8392156862745096
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -87,6 +118,11 @@
             "name": "SFProDisplay-Semibold",
             "size": 43
           }
+        },
+        "kerning": 2.900000095367432,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "paragraphSpacing": 0.8999999761581421
         }
       },
       "verticalAlignment": 0
